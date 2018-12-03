@@ -2,12 +2,12 @@
 layout: default
 ---
 
-{% nbteams = 0 %}
+{% $nbteams = 0 %}
 {% for team in site.data.teams %}
   {% if team.year == page.year %}
     <p>{{ team.Teamname }} - {{ team.year }}</p>
-    {% nbteams += 1 %}
+    {% $nbteams += 1 %}
   {% endif %}
 {% endfor %}
 
-<h1>There is {{ nbteams}} teams</h1>
+<h1>There is {{ $nbteams }} teams</h1>
