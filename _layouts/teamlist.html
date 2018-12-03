@@ -6,7 +6,7 @@ layout: default
 {% for team in site.data.teams %}
   {% if team.year == page.year %}
     <p>{{ team.Teamname }} - {{ team.year }}</p>
-    {% assign nbteams += 1 %}
+    {% increment nbteams %}
   {% endif %}
 {% endfor %}
 
