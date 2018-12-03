@@ -1,0 +1,104 @@
+---
+layout: default
+---
+
+<div class="py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+		<div class="centered">
+          <p class="">The Global Alliance is a student-powered site that is the best way to find resources, information on teams and results for the FIRST Global Challenge. Learn more about <i>FIRST</i> at <a href="http://www.firstinspires.org/" target="_blank" title="FIRST Robotics">firstinspires.org</a> and <i>FIRST Global</i> at <a href="http://www.first.global/" target="blank" title="FIRST Global">first.global</a>.</p>
+          <hr>
+          <h4 class="text-center">Recent Events:</h4>
+<h5 class="text-center"><b><a href="/event/2017"><i>FIRST Global</i> Challenge 2017</a><br><small>July 16-18, 2017</small><br><small>Washington, D.C.</small><br><small>DAR Constitution Hall</small></b></h5>
+		</div>
+
+<hr>
+
+		<div class="centered">
+		<h4 class="text-center">Join the FIRST Global community!</h4>
+		<a href="https://www.facebook.com/groups/1704091546273780/"><span class="fa fa-facebook"></span> Public Facebook Group!</a>
+		<br>
+		<a href="https://discord.gg/bvTyhB9"><span class="fa fa-discord"></span> Public Discord Server!</a>
+		</div>
+        </div>
+
+        <div class="col-md-8">
+          <h4 style="text-align: center;"><strong><a href="/event/2018">2018 FIRST Global Challenge -&nbsp;ENERGY IMPACT</a></strong></h4>
+          <br>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/FPDQhhv11KY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+          <br>
+          <br>
+            <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <div id="chart_div"></div>
+<script>
+          google.charts.load('current', {packages: ['corechart', 'line']});
+google.charts.setOnLoadCallback(drawBasic);
+
+function drawBasic() {
+
+      var data = new google.visualization.DataTable();
+      data.addColumn('number', 'X');
+      data.addColumn('number', 'Average');
+
+      data.addRows([
+       [1, 56.4],  [2, 66.8],  [3, 69.5],  [4, 74.4],   [5, 81.0], [6, 79.5]
+      ]);
+
+      var options = {
+          title: 'Average Score, 2017 FIRST Global Challenge',
+        hAxis: {
+          title: 'Round'
+        },
+        vAxis: {
+          title: 'Score'
+        },
+        colors: ['#a52714', '#097138']
+      };
+
+      var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+
+      chart.draw(data, options);
+    }
+</script>
+<script>
+google.charts.load('current', {packages: ['corechart', 'line']});
+google.charts.setOnLoadCallback(drawBackgroundColor);
+
+function drawBackgroundColor() {
+      var data = new google.visualization.DataTable();
+      data.addColumn('number', 'X');
+      data.addColumn('number', 'High Score');
+
+      data.addRows([
+        [1, 117], [2, 124], [3, 120], [4, 155], [5, 144], [6, 154]
+      ]);
+
+      var options = {
+       title: 'High Score, 2017 FIRST Global Challenge',
+        hAxis: {
+          title: 'Round'
+        },
+        vAxis: {
+          title: 'Score'
+        },
+        backgroundColor: '#f1f8e9'
+      };
+
+      var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+      chart.draw(data, options);
+    }
+</script>
+         </div>
+      </div>
+    </div>
+  </div>
+  <div class="py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <p class=""><!--hello --></p>
+        </div>
+      </div>
+    </div>
+  </div>
