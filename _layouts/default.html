@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/">
+
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.logo }}">
+  <meta name="theme-color" content="#ffffff">
+
+  <!-- Material Design fonts -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,700" type="text/css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha256-LA89z+k9fjgMKQ/kq4OO2Mrf8VltYml/VES+Rg0fh20=" crossorigin="anonymous" />
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+
+  <link href="/css/tga.css" rel="stylesheet">
+
+  <meta name="keywords" content="FIRST Global, Global, FIRST Global Challenge, FIRST Robotics, FIRST Robotics Competition, robotics, first, firstrobotics, competition, team, regionals, matches, videos">
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116923735-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116923735-1');
+</script>
+
+
+</head>
+<header>
+  <nav class="navbar navbar-expand-md navbar-dark bg-success">
+    <div class="container">
+      <a class="navbar-brand" href="/">The Global Alliance</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/live">Live</a>
+          </li>
+		<li class="nav-item dropdown">
+     	   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+   	       Teams
+ 	       </a>
+ 	       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+ 	         <a class="dropdown-item" href="/teams/2017">2017</a>
+ 	         <a class="dropdown-item" href="/teams/2018">2018</a>
+   	     </div>
+  	    </li>
+          <li class="nav-item dropdown">
+     	   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+   	       Rankings
+ 	       </a>
+ 	       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+ 	         <a class="dropdown-item" href="/rankings/2017">2017</a>
+ 	         <a class="dropdown-item" href="/rankings/2018">2018</a>
+   	     </div>
+  	    </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/medals/2017">Medals</a>
+          </li>
+			<li class="nav-item">
+            <a class="nav-link" href="https://blog.theglobalalliance.net">Blog</a>
+          </li>
+        </ul>
+        <form class="form-inline m-0" id="prefetch">
+          <input class="form-control mr-2 typeahead" type="text" placeholder="Search Teams">
+          <!--<button class="btn btn-primary" type="submit">Search</button>-->
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<head>
+<style>
+.centered {
+text-align: center;
+}
+</style>
+</head>
+
+<body>
+
+  {{ content }}
+
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/corejs-typeahead/1.2.1/typeahead.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.6.0/Sortable.min.js"></script>
+<script src="https://theglobalalliance.net/js/tga.js"></script>
