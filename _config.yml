@@ -3,6 +3,7 @@ name: The Global Alliance
 # Short bio or description (displayed in the header)
 description: The Global Alliance is a student-powered site that is the best way to find resources, information on teams and results for the FIRST Global Challenge.
 url:
+logo: "/images/logo.png"
 
 baseurl: ""
 
