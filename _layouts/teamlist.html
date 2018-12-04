@@ -3,11 +3,22 @@ layout: default
 ---
 
 {% assign nbteams = 0 %}
+
+{% assign teamsFromYear = ""%}
+
 {% for team in site.data.teams %}
   {% if team.year == page.year %}
-    <p>{{ team.Teamname }} - {{ team.year }}</p>
     {% assign nbteams = nbteams | plus: 1 %}
+
+    {% assign teamsFromYear | append: team.Teamname, "||", team.url, "|||" %}
+
   {% endif %}
 {% endfor %}
+
+{% for team in teamsFromYear | split: "|||" %}
+<p>{{ team }}</p>
+{% endfor %}
+
+{% assign teamsPerTable = nbteams | divided_by: 4 %}
 
 <h1>There is {{ nbteams }} teams</h1>
