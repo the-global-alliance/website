@@ -33,6 +33,7 @@ layout: default
 {% assign tableIndex = tableIndex | plus: 1 %}
 
 {% if tableIndex >= teamsPerTable %}
+  {% assign tableIndex = 0 %}
       </tbody>
         </table>
       </div>
