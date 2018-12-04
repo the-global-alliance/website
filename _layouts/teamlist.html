@@ -10,7 +10,7 @@ layout: default
   {% if team.year == page.year %}
     {% assign nbteams = nbteams | plus: 1 %}
 
-    {% assign teamsFromYear | append: team.Teamname | join: "||" | join: team.url | join: "|||" %}
+    {% assign teamsFromYear | append: team.Teamname | append: "||" | append: team.url | append: "|||" %}
 
   {% endif %}
 {% endfor %}
