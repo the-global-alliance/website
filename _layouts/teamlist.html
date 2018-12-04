@@ -18,7 +18,7 @@ layout: default
 {% assign teamsPerTable = nbteams | divided_by: 4 %}
 
 {% assign teamsFromYearArray = teamsFromYear | split: '|||' %}
-
+<div class="row">
 {% for team in teamsFromYearArray %}
   {% assign placeInList = forloop.index | modulo: teamsPerTable %}
   {% if placeInList == 0 %}
@@ -27,7 +27,6 @@ layout: default
         </table>
       </div>
     {% endif %}
-  <div class="row">
     <div class="col-md-3">
       <table class="table table-striped table-hover">
         <thead>
@@ -45,5 +44,10 @@ layout: default
   </tr>
 
 {% endfor %}
+
+</tbody>
+  </table>
+</div>
+</div>
 
 <h1>There is {{ nbteams }} teams</h1>
