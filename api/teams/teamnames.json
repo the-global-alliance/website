@@ -1,1 +1,5 @@
+---
+layout: null
+---
+
 [{% for team in site.data.teams %}"{{ team.Teamname }} - {{ team.year }},"{% endfor %}]
