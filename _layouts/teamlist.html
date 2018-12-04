@@ -15,7 +15,9 @@ layout: default
   {% endif %}
 {% endfor %}
 
-{% for team in teamsFromYear | split: "|||" %}
+{% assign teamsFromYearArray = teamsFromYear | split: '|||' %}
+
+{% for team in teamsFromYearArray %}
 <p>{{ team }}</p>
 {% endfor %}
 
