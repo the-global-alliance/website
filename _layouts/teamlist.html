@@ -22,7 +22,7 @@ layout: default
 {% for team in teamsFromYearArray %}
   {% assign placeInList = forloop.index | modulo: teamsPerTable %}
   {% if placeInList == 0 %}
-    {% if forloop.index <= 1 %}
+    {% if forloop.index > 1 %}
       </tbody>
         </table>
       </div>
