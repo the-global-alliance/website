@@ -47,9 +47,11 @@ layout: default
         <tbody>
 {% endif %}
 
+{% assign teamData = team | split: '||' %}
+
   <tr>
     <td>
-      <a href="/team/{{ team.year }}/{{ team.url }}">{{ team.Teamname }}</a>
+      <a href="/team/{{ page.year }}/{{ teamData[1] }}">{{ teamData[0] }}</a>
     </td>
   </tr>
 
