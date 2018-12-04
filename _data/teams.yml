@@ -1,136 +1,136 @@
 - id: 1
   url: "south-america"
   Teamname: "Team South America"
-  shortname: ""
+  shortname:
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Lima, Peru"
   frcteam: "Innova Schools"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-south-america"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/05/Mayra-Zambrano-Facebook.png?fit=864%2C723"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Sanchez Escobar, Diego Alonso\", 0], [\"Mendoza Navarro, Emerson\", 0], [\"Garcia Rodriguez, Karol\", 1], [\"Sanchez, Giancarlo\", 0], [\"Panduro Delgado, Alvaro\", 0], [\"Urday, Nicole\", 1]]"
-  countrycode: ""
-  instagram: ""
+  countrycode:
+  instagram:
 - id: 2
   url: "oceania"
   Teamname: "Team Oceania"
-  shortname: ""
+  shortname:
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Evanston, Australia"
   frcteam: "FTC Team 10247 Trinity BaCoNeers  "
   website: "http://teambacon.org.au/"
   fgprofile: "http://first.global/nations/team-oceania"
   facebook: "trinity.team.bacon"
-  twitter: ""
+  twitter:
   youtube: "UCfxUiD4KnI9LbhNXLuflhKQ"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/03/Team-Photo-e1490030949487.jpg?fit=2000%2C1609"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Brady, Michael\", 0], [\"Hawkey, Bowen\", 0], [\"Moloney, Samuel\", 0], [\"Voigt, Luke\", 0], [\"Axford, Nathan\", 0]]"
-  countrycode: ""
-  instagram: ""
+  countrycode:
+  instagram:
 - id: 3
   url: "north-america"
   Teamname: "Team North America"
-  shortname: ""
+  shortname:
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Mexico City, Mexico"
   frcteam: "Bears: FRC 5415, FTC 3141, FLL and FLL Jr."
   website: "http://bears.rocks/"
   fgprofile: "http://first.global/nations/team-north-america"
   facebook: "BearsRobotics"
   twitter: "FGNorthAmerica"
-  youtube: ""
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/04/FIRST-Global.jpg?fit=4270%2C2248"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
-  countrycode: ""
+  countrycode:
   instagram: "bearsrobotics"
 - id: 4
   url: "europe"
   Teamname: "Team Europe"
-  shortname: ""
+  shortname:
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Budapest, Hungary"
   frcteam: "Fazekas RoboTeam (FLL, WRO)"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-europe"
   facebook: "fazekasroboteam"
-  twitter: ""
+  twitter:
   youtube: "UCLznKRhBvFt_g8bJz06zYPw"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/04/Fazekas-team3.jpg?fit=620%2C413"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Hervay, Bence\", 0], [\"Fey, Mihaly\", 0], [\"Kurucz, Marton\", 0], [\"Martinak, Zalan\", 0], [\"Molnar-Saska, Zsofia\", 1], [\"Umann, David\", 0]]"
-  countrycode: ""
-  instagram: ""
+  countrycode:
+  instagram:
 - id: 5
   url: "africa"
   Teamname: "Team Africa"
-  shortname: ""
+  shortname:
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Casablanca, Morocco"
   frcteam: "Ecole Le Cedre"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-africa"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/04/Screen-Shot-2017-06-26-at-2.29.49-PM.png?fit=1608%2C911"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Taoussi, Karim\", 0], [\"Lahlou, Mohamed Al Amine\", 0], [\"El Fatihi, Kenza\", 1], [\"Ouafik, Salma\", 1], [\"Tarist, Aya\", 1], [\"Zineb,\", 1], [\"Alex,\", 0], [\"Charisse,\", 1]]"
-  countrycode: ""
-  instagram: ""
+  countrycode:
+  instagram:
 - id: 6
   url: "asia"
   Teamname: "Team Asia"
-  shortname: ""
+  shortname:
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Nationwide, Oman"
   frcteam: "Various high schools"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-asia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/06/Team-Asia.jpeg?fit=1280%2C853"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
-  countrycode: ""
-  instagram: ""
+  countrycode:
+  instagram:
 - id: 7
   url: "zimbabwe"
   Teamname: "Zimbabwe"
   shortname: "Republic of Zimbabwe"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Harare, Zimbabwe"
   frcteam: "Team Zimbots STEM 263 (FLL)"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-zimbabwe"
   facebook: "Zimbots"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/Zimbabwe-1-1-e1498920823781.jpg?fit=2000%2C1357"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Ndachena, Anotidaishe\", 1], [\"Kativu, Gustuv\", 0], [\"Muzowaka, Tariro\", 0], [\"Matemba, Gabriel\", 0], [\"Mujere, Nelson\", 0], [\"Mapondera, Tinotendaishe\", 0], [\"Nechitima, Gamuchirai\", 1], [\"Mwayera, Vimbayi\", 1]]"
   countrycode: "ZW"
-  instagram: ""
+  instagram:
 - id: 8
   url: "zambia"
   Teamname: "Zambia"
@@ -139,7 +139,7 @@
   robotname: "EPOH"
   adress: "Lukasa, Zambia"
   frcteam: "Team Zambia 72"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-zambia"
   facebook: "ZambiaRobotics"
   twitter: "zambiarobotics17\r\n"
@@ -155,45 +155,45 @@
   Teamname: "Yemen"
   shortname: "al-Jumhuriyyah al-Yamaniyyah"
   year: 2017
-  robotname: ""
-  adress: ""
+  robotname:
+  adress:
   frcteam: "Talented Youth Academy"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-yemen"
   facebook: "firstglobalyemen"
-  twitter: ""
+  twitter:
   youtube: "UCVAnXpgrQOf7UUQ055mU2kA"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/MVI_938400_00_0920170618-022606-2.png?fit=1920%2C1088"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Algafri, Abdulgader\", 0], [\"Bin Omairah, Amran\", 0]]"
   countrycode: "YE"
-  instagram: ""
+  instagram:
 - id: 10
   url: "vietnam"
   Teamname: "Vietnam"
   shortname: "Cong hoa xa hoi chu nghia Viet Nam"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Hanoi, Vietnam"
   frcteam: "FPT High School Robotics Club"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-vietnam"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/m4o82kdramh8hjsfsfdt.jpg?fit=620%2C413"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Quynh Trang, Le\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "VN"
-  instagram: ""
+  instagram:
 - id: 11
   url: "venezuela"
   Teamname: "Venezuela"
   shortname: "Republica Bolivariana de Venezuela"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Maracaibo, Venezuela"
   frcteam: "Venebot"
   website: "https://sites.google.com/view/venebot"
@@ -203,7 +203,7 @@
   youtube: "UCPlWQpTbmLKeaXvcrSBXTlw"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/04/DSC_7294.jpg?fit=2464%2C1632"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Martinez, Anny\", 1], [\"Morillo, Luis\", 0], [\"Medina, Jaimary\", 1], [\"Andrade, Emanuel\", 0], [\"Larreal, Samuel\", 0], [\"Sarcos, Freddy\", 0]]"
   countrycode: "VE"
   instagram: "venebot"
@@ -212,134 +212,134 @@
   Teamname: "Vanuatu"
   shortname: "Republic of Vanuatu"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Port Vila, Vanuatu"
   frcteam: "SMART Sistas"
   website: "www.smartsistas.vu"
   fgprofile: "http://first.global/nations/team-vanuatu"
   facebook: "smartsistas"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/04/SMARTSistasRoboticswMentor.jpg?fit=6000%2C4000"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Molivurae, Lana\", 1], [\"Raptigh, Lilia\", 1], [\"Olul, Casandra\", 1]]"
   countrycode: "VU"
-  instagram: ""
+  instagram:
 - id: 13
   url: "uzbekistan"
   Teamname: "Uzbekistan"
   shortname: "O'zbekiston Respublikasi"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Tashkent, Uzbekistan"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-uzbekistan"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/photo-e1498656330715.jpg?fit=1500%2C1125"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Lev,\", 0], [\"Sorin,\", 0]]"
   countrycode: "UZ"
-  instagram: ""
+  instagram:
 - id: 14
   url: "uruguay"
   Teamname: "Uruguay"
   shortname: "Republica Oriental del Uruguay"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Tala, Uruguay"
   frcteam: "Team Garra Charrúa from José Alonso y Trelles High School (FLL)"
   website: "http://garracharruauruguay.blogspot.ca/"
   fgprofile: "http://first.global/nations/team-uruguay"
-  facebook: ""
+  facebook:
   twitter: "garraCharra1"
-  youtube: ""
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/IMG_9519-e1498498873558.jpg?fit=1500%2C1125"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Barreto, Belen\", 1], [\"Cuendes, Axel\", 0], [\"Baldivia, Camilo\", 0], [\"Rey, Agustín\", 0], [\"Borges, Nicolas\", 0], [\"Borges, Javier\", 0]]"
   countrycode: "UY"
-  instagram: ""
+  instagram:
 - id: 15
   url: "usa"
   Teamname: "United States"
   shortname: "United States of America"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Alaska & New Jersey"
   frcteam: "FTC 3595 Schrodinger's Hat & FTC 6037 WAGS"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-united-states/"
   facebook: "FGCTeamUSA"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/IMG_6312-e1488492781143.jpg?fit=1500%2C1125"
   robotexperience: 2
   qualification: "FTC Dean's List + Invitation"
   teammembers: "[[\"Johnson, Katie\", 1], [\"Johnson, Colleen\", 1], [\"Ravichandar, Sanjna\", 1]]"
   countrycode: "US"
-  instagram: ""
+  instagram:
 - id: 16
   url: "uk"
   Teamname: "United Kingdom"
   shortname: "United Kingdom of Great Britain and Northern Ireland"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Horsham, West Sussex, UK"
   frcteam: "Collyer's Robotics"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-united-kingdom/"
-  facebook: ""
-  twitter: ""
+  facebook:
+  twitter:
   youtube: "UC2YvplXMFTFk2ygxQGPTzwg"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/03/PhotoTeamUK.jpg?fit=3280%2C1840"
   robotexperience: 2
   qualification: "Top 3 in Student Robotics Competition, selected after application"
   teammembers: "[[\"Glossop, Jonny\", 0], [\"Baker, Jacob\", 0], [\"Brooker, Charlie\", 0], [\"Clare, Tom\", 0], [\"Fletcher, Jenny\", 1], [\"Lynn, Thomas\", 0], [\"Webster, Harvey\", 0]]"
   countrycode: "GB"
-  instagram: ""
+  instagram:
 - id: 17
   url: "uae"
   Teamname: "United Arab Emirates"
   shortname: "Dawlat al-Imarat al-'Arabiyah al-Muttahidah"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Nationwide, UAE"
   frcteam: "sponsored by Sheikh Hamdan Foundation"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-united-arab-emirates/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/UAE-1.jpg?fit=2016%2C1512"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 1], [\"\", 1], [\"\", 1], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "AE"
-  instagram: ""
+  instagram:
 - id: 18
   url: "ukraine"
   Teamname: "Ukraine"
   shortname: "Ukrayina"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Kiev, Ukraine"
   frcteam: "Kyiv Polytechnic Institute"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-ukraine"
   facebook: "fgc.ukraine"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/3-e1496423686487.png?fit=1500%2C1021"
   robotexperience: 2
   qualification: "Selection process for individuals"
   teammembers: "[[\"Manzhulenko, Inha\", 1], [\"Koreshov, Mykhailo\", 0], [\"Zhukovsky, Igor\", 0]]"
   countrycode: "UA"
-  instagram: ""
+  instagram:
 - id: 19
   url: "uganda"
   Teamname: "Uganda"
@@ -348,45 +348,45 @@
   robotname: "UGA BOT"
   adress: "Kampala, Uganda"
   frcteam: "Makerere University"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-uganda"
-  facebook: ""
-  twitter: ""
+  facebook:
+  twitter:
   youtube: "UCE6b7j55n8GERSr2oniWjCA"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/Uganda.png?fit=1392%2C1025"
   robotexperience: 2
   qualification: "Won Ugandan Science and Technology Challenge"
   teammembers: "[[\"Okwir, Daniel\", 0], [\"Okello, Patrick Hamza\", 0], [\"Okelo, Harrieet\", 1]]"
   countrycode: "UG"
-  instagram: ""
+  instagram:
 - id: 20
   url: "turkmenistan"
   Teamname: "Turkmenistan"
   shortname: "Turkmenistan"
   year: 2017
-  robotname: ""
-  adress: ""
+  robotname:
+  adress:
   frcteam: "97th School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-turkmenistan"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/04/TEAM-TURKMENISTAN-ALL-1-e1491786847319.jpg?fit=1500%2C1022"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Ahmet,\", 0], [\"Erkin,\", 0], [\"Muhammetnur,\", 0]]"
   countrycode: "TM"
-  instagram: ""
+  instagram:
 - id: 21
   url: "turkey"
   Teamname: "Turkey"
   shortname: "Turkiye Cumhuriyeti"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Sanliurfa, Turkey"
   frcteam: "Urfa STEM Team"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-turkey"
   facebook: "stemurfaekibi"
   twitter: "urfArge"
@@ -396,13 +396,13 @@
   qualification: "Selected by Turkish government"
   teammembers: "[[\"Atkas, Rodi\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "TR"
-  instagram: ""
+  instagram:
 - id: 22
   url: "tunisia"
   Teamname: "Tunisia"
   shortname: "al-Jumhuriyah at-Tunisiyah"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Sfax, Tunisia"
   frcteam: "FIRST Skills Club (later VEX)"
   website: "https://firstskills.club/"
@@ -412,10 +412,10 @@
   youtube: "UC321bRFOHUadDfNgtZDIMfQ"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/Tunisia.jpg?fit=1334%2C1000"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Kessentini, Feres\", 0], [\"Madjoub, Slim\", 0], [\"Kassis, Omar\", 0], [\"Masmoudy, Sami\", 0], [\"Ben Halima, Fares\", 0], [\"Fakhfakh, Mahdi\", 0], [\"Jrad, Zied\", 0]]"
   countrycode: "TN"
-  instagram: ""
+  instagram:
 - id: 23
   url: "trinidad-and-tobago"
   Teamname: "Trinidad and Tobago"
@@ -424,36 +424,36 @@
   robotname: "Max"
   adress: "Chagunas, Trinidad and Tobago"
   frcteam: "Presentation College"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-trinidad-and-tobago"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/05/NEW-TEAM-PIC-e1494952377186.jpg?fit=1500%2C1125"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Hosein, Fahad\", 0], [\"Gonsalez, Josef\", 0], [\"Marajh, Avidesh\", 0]]"
   countrycode: "TT"
-  instagram: ""
+  instagram:
 - id: 24
   url: "togo"
   Teamname: "Togo"
   shortname: "Republique Togolaise"
   year: 2017
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-togo"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/2017-07-04-PHOTO-00000026.jpg?fit=1080%2C610"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Yves,\", 0], [\"Elodie,\", 1], [\"Jean Pierre,\", 0]]"
   countrycode: "TG"
-  instagram: ""
+  instagram:
 - id: 25
   url: "tanzania"
   Teamname: "Tanzania"
@@ -461,37 +461,37 @@
   year: 2017
   robotname: "Killbot"
   adress: "Dodoma, Tanzania"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-tanzania"
   facebook: "officialteamtz"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/the-team-2.jpg?fit=1500%2C1000"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Myasola, Francis Eprahim\", 0], [\"Jones, Lisa Michael\", 1], [\"Timanywa, Kokubanza January\", 1], [\"Uiso, Gobright Nixon\", 0], [\"Raymond, Benedict\", 0], [\"Tindi, Sangali Jumanne\", 1], [\"Msabila, Modesta Joseph\", 0]]"
   countrycode: "TZ"
-  instagram: ""
+  instagram:
 - id: 26
   url: "sweden"
   Teamname: "Sweden"
   shortname: "Konungariket Sverige"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Stockholm, Sweden"
   frcteam: "selected from Kosmosklubben (Leadership Organisation)"
   website: "http://www.kosmosklubben.se/projekt/first-global-challenge/"
   fgprofile: "http://first.global/nations/team-sweden"
   facebook: "teamswedenfirstglobal"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/sweden_new-e1493228689520.jpg?fit=1500%2C1072"
   robotexperience: 2
   qualification: "selected from Kosmoklubben, a leadership in STEM organization"
   teammembers: "[[\"Victor,\", 0], [\"Christina,\", 1], [\"Gustaf,\", 0], [\"Sophia,\", 1], [\"Daniel,\", 0], [\"Mareme,\", 1], [\"Hugo,\", 0], [\"Ebba,\", 0], [\"Axel,\", 0]]"
   countrycode: "SE"
-  instagram: ""
+  instagram:
 - id: 27
   url: "suriname"
   Teamname: "Suriname"
@@ -500,36 +500,36 @@
   robotname: "Zweef Teki"
   adress: "Paramaribo, Suriname"
   frcteam: "sponsored by Foundation Young Help Suriname"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-suriname"
   facebook: "younghelpsuriname"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/05/Team-Suriname-FGC-Website-2.jpg?fit=900%2C580"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Sital, Shayant\", 0], [\"Codrington, Ivana\", 1], [\"Jhagroe, Ayan\", 0]]"
   countrycode: "SR"
-  instagram: ""
+  instagram:
 - id: 28
   url: "sudan"
   Teamname: "Sudan"
   shortname: "Jumhuriyyat as-Sudan"
   year: 2017
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-sudan"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/06/19204770_10207703712905548_161664080_o.jpeg?fit=718%2C635"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "SD"
-  instagram: ""
+  instagram:
 - id: 29
   url: "sri-lanka"
   Teamname: "Sri Lanka"
@@ -538,23 +538,23 @@
   robotname: "Don Pablo Telliez"
   adress: "Colombo, Sri Lanka"
   frcteam: "Elizabeth Moir International School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-sri-lanka"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/05/DSC_0253-e1498827065345.jpg?fit=1500%2C1067"
   robotexperience: 2
   qualification: "School selected in application process among schools"
   teammembers: "[[\"Anver, Ali\", 0], [\"Gnanam, Akash\", 0], [\"Gammanpilla, Ishini\", 1], [\"Jayasinghe, Vinidu\", 1], [\"Hamza, Amjad\", 0]]"
   countrycode: "LK"
-  instagram: ""
+  instagram:
 - id: 30
   url: "spain"
   Teamname: "Spain"
   shortname: "Reino de Espana"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Barcelona, Spain"
   frcteam: "RoboCaspers (WRO)"
   website: "http://robocaspers.wixsite.com/robocaspers"
@@ -564,105 +564,105 @@
   youtube: "UCH98WwHxw6QRSSiL3DQ7BNw"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/P1110766.jpg?fit=3072%2C2304"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Soler, Arnau\", 0], [\"Marti, Fransesc\", 0], [\"Escobar, Miquel\", 0], [\"Soler, Guillem\", 0]]"
   countrycode: "ES"
-  instagram: ""
+  instagram:
 - id: 31
   url: "south-sudan"
   Teamname: "South Sudan"
   shortname: "Republic of South Sudan"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Juba, South Sudan"
   frcteam: "South Sudan Robotics Team"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-south-sudan"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/06/IMG_1643.jpg?fit=2592%2C1936"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[\"\", 1], [\"\", 1], [\"\", 0]]"
   countrycode: "SS"
-  instagram: ""
+  instagram:
 - id: 32
   url: "republic-of-korea"
   Teamname: "South Korea"
   shortname: "Daehan Minguk"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Seoul, South Korea"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-south-korea"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/Team-Picture-1-e1498505323503.jpg?fit=1500%2C844"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Ahn, Nam Kyung\", 0], [\"Cha, Sang Won\", 0], [\"Lim, Matthew\", 0], [\"Choi, Kyu Hwan\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "KR"
-  instagram: ""
+  instagram:
 - id: 33
   url: "south-africa"
   Teamname: "South Africa"
   shortname: "Republic of South Africa"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Pretoria, South Africa"
   frcteam: "Team Mighty Minds from HTS John Vorster School and HS Uitsig School "
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-south-africa"
   facebook: "Team-Spring-Bots-South-Africa-1850992714916653"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/Mighty-Minds-Team.jpg?fit=2729%2C1849"
   robotexperience: 2
   qualification: "Schools selected by Johan Benade, students selected by test"
   teammembers: "[[\"Moagi, Varbara\", 1], [\"Swartz, Anro\", 0], [\"Botha, Garet\", 0], [\"Reddy, Mikhaeel\", 0], [\"Pillay, Bryson\", 0], [\"Truter, Daniel\", 0]]"
   countrycode: "ZA"
-  instagram: ""
+  instagram:
 - id: 34
   url: "solomon-islands"
   Teamname: "Solomon Islands"
   shortname: "Solomon Islands"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Honiara, Solomon Islands"
   frcteam: "Woodford International School Robotics Club"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-solomon-islands"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/06/20170622_134233-e1498522892686.jpg?fit=1500%2C1125"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Travis\", 0], [\"Ryan\", 0], [\"Nathan\", 0], [\"Marialena\", 1]]"
   countrycode: "SB"
-  instagram: ""
+  instagram:
 - id: 35
   url: "slovakia"
   Teamname: "Slovakia"
   shortname: "Slovenska republika"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Bratislava, Slovakia"
   frcteam: "Projekt Vianocka from Galileo Grammar School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-slovakia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/Slovakia.jpg?fit=4592%2C3448"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Vadocz, Viliam\", 0], [\"Martin\", 0], [\"Martin\", 0], [\"Andrej\", 0], [\"Branislav\", 0], [\"Lukas\", 0], [\"Alex\", 0], [\"Peter\", 0]]"
   countrycode: "SK"
-  instagram: ""
+  instagram:
 - id: 36
   url: "singapore"
   Teamname: "Singapore"
@@ -671,10 +671,10 @@
   robotname: "Spaghetti Noodles"
   adress: "Singapore, Singapore"
   frcteam: "Anglo-Chinese School (Independent) Robotics Club \r\nBlank (VEX Team 8059)"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-singapore"
   facebook: "ACSIRobotics"
-  twitter: ""
+  twitter:
   youtube: "UC7e6cLG3RlxN_Gfss6cpRGA"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/06/Singapore-Team-e1497882786899.jpg?fit=1500%2C866"
   robotexperience: 2
@@ -687,96 +687,96 @@
   Teamname: "Sierra Leone"
   shortname: "Republic of Sierra Leone"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Freetown, Sierra Leone"
   frcteam: "Various High Schools in Freetown\r\nsponsored by Innovate Salone"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-sierra-leone"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/Sierra-Leone.jpeg?fit=576%2C360"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Barrie, Fatmata Bintu\", 1], [\"Williams, Daniel Melrick\", 0], [\"Sankoh, Brian\", 0], [\"Elba, Samuel\", 0]]"
   countrycode: "SL"
-  instagram: ""
+  instagram:
 - id: 38
   url: "seychelles"
   Teamname: "Seychelles"
   shortname: "Republic of Seychelles | Republique des Seychelles"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Beau-Vallon, Seychelles"
   frcteam: "Beau-Vallon Secondary\r\nsupported by National Institute for Science, Technology and Innovation "
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-seychelles"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/DSC_0409-e1498054846726.jpg?fit=1500%2C1000"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Azemia, Nellie\", 1], [\"Nalletamby, Frazer\", 0], [\"Mousbe, Stana\", 1], [\"Ernesta, Damien\", 0], [\"Buron, Anil\", 0], [\"Banane, Shana\", 0]]"
   countrycode: "SC"
-  instagram: ""
+  instagram:
 - id: 39
   url: "serbia"
   Teamname: "Serbia"
   shortname: "Republika Srbija"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Belgrade, Serbia"
   frcteam: "Kreativno Pero School\r\nNikola Tesla School (Budapest, Hungary)"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-serbia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/Team-Serbia-e1498741159852.jpg?fit=1500%2C998"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Svraka, Lazar\", 0], [\"Djurovic, Matija\", 0], [\"Joksimovic, Vladana\", 1], [\"Grk, Ilija, 0\"], [\"Starcevic, Filip\", 0], [\"Naspalic, Dalibor\", 0], [\"Golubovic, Teodora\", 1], [\"Andric, Katarina\", 1], [\"Milovanovic, Andej\", 0], [\"Vukasinovic, Marko\", 0], [\"Cvjetan, Miroslav\", 0]]"
   countrycode: "RS"
-  instagram: ""
+  instagram:
 - id: 40
   url: "senegal"
   Teamname: "Senegal"
   shortname: "Republique du Senegal"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Dakar, Senegal"
   frcteam: "Senebot (later a VEX Robotics team)"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-senegal"
   facebook: "senebotclub"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/Screenshot_2017-07-01-19-55-53.png?fit=480%2C501"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0], [\"\", 1], [\"\", 1]]"
   countrycode: "SN"
-  instagram: ""
+  instagram:
 - id: 41
   url: "saint-lucia"
   Teamname: "Saint Lucia"
   shortname: "Saint Lucia"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Castries, Saint Lucia"
   frcteam: "Team 758 from Sir Arthur Lewis Community College"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-saint-lucia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/05/AYSVdO45Tgi7P7PFtTsxaw_thumb_dc4c.jpg?fit=1086%2C724"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Narhari, Reshul\", 0], [\"Patrick, Keeghan\", 0], [\"Roserie, Shergaun\", 1]]"
   countrycode: "LC"
-  instagram: ""
+  instagram:
 - id: 42
   url: "saint-kitts-and-nevis"
   Teamname: "Saint Kitts and Nevis"
@@ -785,14 +785,14 @@
   robotname: "Marley"
   adress: "Basseterre, St. Kitts & Nevis"
   frcteam: "CFBC TVEMS Information Technology School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-saint-kitts-and-nevis"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/04/ST-KITTS-ROBOTICS-TEAM.png?fit=3384%2C3872"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Lapsley, Jervik\", 0], [\"Henry, Jermellia\", 1], [\"Shaw, Zhavier\", 0]]"
   countrycode: "KN"
   instagram: "@sknrobotics"
@@ -801,52 +801,52 @@
   Teamname: "Rwanda"
   shortname: "Repubulika y'u Rwanda"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Kigali, Rwanda"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-rwanda"
   facebook: "First-global-team-Rwanda-758487947644479"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/IMG_8716.jpg?fit=5184%2C3456"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Rugerinyange, Regis Aime\", 0], [\"Ikirezi, Paola\", 1], [\"Mugisha, Aubin Marc\", 0], [\"Byishimo, Serge\", 0], [\"Muhirwa, Frank\", 0], [\"Ishimwe, Benita Olga\", 1], [\"Uwihoreye, Joselyne\", 1]]"
   countrycode: "RW"
-  instagram: ""
+  instagram:
 - id: 44
   url: "russia"
   Teamname: "Russia"
   shortname: "Rossiyskaya Federatsiya"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "St. Petersburg, Russia"
   frcteam: "FTC Team from Physics and Mathematics Lyceum No. 30"
   website: "https://www.robot30.ru/english/"
   fgprofile: "http://first.global/nations/team-russia"
   facebook: "ftcpml30"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/06/team-russia.jpg?fit=1280%2C859"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "RU"
-  instagram: ""
+  instagram:
 - id: 45
   url: "romania"
   Teamname: "Romania"
   shortname: "Romania"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Nationwide, Romania"
   frcteam: "Various FTC Teams"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-romania"
   facebook: "ROmanianROBOtics"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/Team-Romania-e1495636729182.jpg?fit=1500%2C1003"
   robotexperience: 2
   qualification: "All-star team of FTC teams in Romania"
@@ -858,267 +858,267 @@
   Teamname: "Refugees (Team Hope)"
   shortname: "Syrian Refugees in Lebanon"
   year: 2017
-  robotname: ""
-  adress: ""
+  robotname:
+  adress:
   frcteam: "Hope of Syria (VEX)"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-refugees"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/Team-Hope-2.jpg?fit=6000%2C4000"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Alkhateeb, Mohamad Nabih\", 0], [\"Kabour, Amar\", 0], [\"Alisawui, Maher\", 0]]"
-  countrycode: ""
-  instagram: ""
+  countrycode:
+  instagram:
 - id: 47
   url: "portugal"
   Teamname: "Portugal"
   shortname: "Republica Portuguesa"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "S. João da Madeira, Portugal"
   frcteam: "Agrupamento de Escolas Dr. Serafim"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-portugal"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/Portugal.jpg?fit=1334%2C1001"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Goncalves Fernandes, Ruben Daniel\", 0], [\"de Padua Costa, Rui Miguel\", 0], [\"Raul\", 0], [\"Gaspar Azevdeo, Joao Marcelo\", 0]]"
   countrycode: "PT"
-  instagram: ""
+  instagram:
 - id: 48
   url: "poland"
   Teamname: "Poland"
   shortname: "Rzeczpospolita Polska"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Krasnik, Poland"
   frcteam: "FRC Team 5883 Spice Gears"
   website: "http://test.spicegears.pl/en/"
   fgprofile: "http://first.global/nations/team-poland"
   facebook: "firstglobalpoland"
-  twitter: ""
+  twitter:
   youtube: "UCz0azzvreMQdKFSD5oH1_PA"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/05/IMG_0115-e1495741000999.jpg?fit=1500%2C1106"
   robotexperience: 2
   qualification: "First FRC Team in Poland"
   teammembers: "[[\"Ola\", 1], [\"Andrzej\", 0], [\"Dominik\", 0], [\"Bartek\", 0], [\"Magda\", 1], [\"Mateusz\", 0], [\"Szymon\", 0]]"
   countrycode: "PL"
-  instagram: ""
+  instagram:
 - id: 49
   url: "philippines"
   Teamname: "Philippines"
   shortname: "Republika ng Pilipinas"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Nationwide, Philippines"
   frcteam: "The Legionaires\r\n7 FLL Teams"
   website: "https://legionnairesph.weebly.com/"
   fgprofile: "http://first.global/nations/team-philippines"
-  facebook: ""
+  facebook:
   twitter: "legionnairesph"
-  youtube: ""
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/PHILIPPINES-1.jpg?fit=6000%2C4000"
   robotexperience: 2
   qualification: "All-star team of FLL teams"
   teammembers: "[[\"Casalla, Abbie Louise M.\", 1], [\"Cosico, Blaise Brandon S.\", 0], [\"Cunanan, Warner D., 0], [\"Olgado, King Johnnel C.\", 0], [|\"Oro, Rose Anne G.\", 1], [\"Pura, Harold Christopher S.\", 0], [\"Rosario, Justine Gail F.\", 1]]"
   countrycode: "PH"
-  instagram: ""
+  instagram:
 - id: 50
   url: "peru"
   Teamname: "Peru"
   shortname: "Republica del Peru"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Arequipa, Peru"
   frcteam: "Domingo Savio School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/peru/"
   facebook: "teamperufirstglobal"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/Roboticos-24.jpg?fit=3000%2C1987"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Hidalgo, Moises\", 0], [\"Huamani, Jose\", 0], [\"Rospigliosi, Sebastian\", 0], [\"Hurtado, Enzo\", 0], [\"Zegarra, Sebastian\", 0], [\"Polanco, Yerival\", 0], [\"Gordillo, Andre\", 0], [\"Caceres, Karim\", 0], [\"Sardon, Henry\", 0]]"
   countrycode: "PE"
-  instagram: ""
+  instagram:
 - id: 51
   url: "paraguay"
   Teamname: "Paraguay"
   shortname: "Republica del Paraguay"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Asuncion, Paraguay"
   frcteam: "Mbarete Guarani / Team CEL (Centro Educativo Los Laureles)\r\nLater became FRC 6982 Team CEL"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-paraguay"
   facebook: "teamparaguayfirst"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/05/IMG-20170606-WA0014.jpg?fit=1280%2C960"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Vuyk Gonzalez, Maximiliano Alejandro\", 0] [\"Santacruz Viñales, Sebastian\", 0], [\"Molinas Vega, Alejandro José\", 0], [\"Gonzalez Lopez, Eliana Montserrat\", 1], [\"Zeizig, José\", 0]]"
   countrycode: "PY"
-  instagram: ""
+  instagram:
 - id: 52
   url: "panama"
   Teamname: "Panama"
   shortname: "Republica de Panama"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "David, Chiriqui, Panama"
   frcteam: "I.P.T. Anulfo Arias High School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/panama/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/panama-team-1-e1498742206910.jpg?fit=1500%2C1125"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Caballero, Brenda\", 1], [\"Correa, Edward\", 0], [\"de Garcia, Christopher\", 0], [\"Gonzalez, Vicente\", 0], [\"Rios, Porfirio\", 0], [\"Serrut, Ariel\", 0]]"
   countrycode: "PA"
-  instagram: ""
+  instagram:
 - id: 53
   url: "palestine"
   Teamname: "Palestine"
   shortname: "Dawlat Filastin"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Ramallah, Palestine"
   frcteam: "Saint Joseph School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-palestine"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/Robo-3-1.jpg?fit=1920%2C1280"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Kidess, Karmen\", 1], [\"Ghanem, Emiliana\", 1], [\"Ghabin, Rahef\", 1]]"
   countrycode: "PS"
-  instagram: ""
+  instagram:
 - id: 54
   url: "pakistan"
   Teamname: "Pakistan"
   shortname: "Islami Jumhuriyah Pakistan"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Islamabad, Pakistan"
   frcteam: "Alphabots from Elementary Montessori System High School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-pakistan"
   facebook: "alphabotspakistan"
-  twitter: ""
+  twitter:
   youtube: "UCUEY6676YloT1uHiC7sVFdQ"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/DSC_0134-e1499465610802.jpg?fit=1500%2C1000"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Arshad Bhatti, Hamza\", 0], [\"Kiyani, Dawood Ahmad\", 0], [\"Waheed, Ahmed\", 0], [\"Bin Mohsin, Mohammad\", 0], [\"Ahmad Kiyani, Maryam\", 1], [\"Suleman Ali, Syed\", 0]]"
   countrycode: "PK"
-  instagram: ""
+  instagram:
 - id: 55
   url: "oman"
   Teamname: "Oman"
   shortname: "Saltanat 'Uman"
   year: 2017
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-oman"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/WhatsApp-Image-2017-07-03-at-10.10.23-AM.jpeg?fit=1188%2C792"
   robotexperience: 0
   qualification: "Students are hearing-impaired"
   teammembers: "[[\"Nasser Al-Saadi, Hamood\", 0], [\"Nasser Al-Saadi, Ali\", 0]]"
   countrycode: "OM"
-  instagram: ""
+  instagram:
 - id: 56
   url: "norway"
   Teamname: "Norway"
   shortname: "Kongeriket Norge"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Trondheim, Norway"
   frcteam: "Later part of FRC Hell Robotics 7239\r\nSchools: Thora Storm, Ole Vig and Strinda"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-norway"
   facebook: "FIRST-Global-Team-Norway-515562442112549"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/HEV_1498924453730.jpg?fit=1000%2C566"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Rodahl Thingnes, Tobias\", 0], [\"Krogstie, Havard\", 0], [\"Sorebo, Simen\", 0], [\"Hafsmo, Olaf Andreas\", 0], [\"Rost Klomsten, Sewald\", 0], [\"Hofstad, Georg\", 0], [\"Rudolfsen, Selma\", 1]]"
   countrycode: "NO"
-  instagram: ""
+  instagram:
 - id: 57
   url: "nigeria"
   Teamname: "Nigeria"
   shortname: "Federal Republic of Nigeria"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Lagos, Nigeria"
   frcteam: "Robo Teens"
   website: "http://robogennigeria.org/"
   fgprofile: "http://first.global/nations/team-nigeria"
   facebook: "robogNigeria"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/Team_Nigeria.jpg?fit=1280%2C853"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Toluwalase\", 0], [\"Giwa, Tawakalitu\", 1], [\"Tetisimi, Adegbamigbe\", 0], [\"Talabi, Adeniyi\", 0], [\"\", 0], [\"\", 0], [\"\", 1]]"
   countrycode: "NG"
-  instagram: ""
+  instagram:
 - id: 58
   url: "niger"
   Teamname: "Niger"
   shortname: "Republique du Niger"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Niamey, Niger"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-niger"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/06/IMG_20170530_143454.jpg?fit=1500%2C1684"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Hassane Mahamane, Abdoul Aziz\", 0], [\"Abdou, Aida Ibrahima\", 1], [\"Rafiqua\", 0]]"
   countrycode: "NE"
-  instagram: ""
+  instagram:
 - id: 59
   url: "nicaragua"
   Teamname: "Nicaragua"
   shortname: "Republica de Nicaragua"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Acahualinca, Nicaragua"
   frcteam: "Fabretto’s Education Center “San Francisco”"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-nicaragua"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/IMG_0962-e1498784956552.jpg?fit=1500%2C888"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Gutierrez, Víctor\", 0], [\"Jarquin, Gloria\", 1], [\"Mercardo, Alejandra\", 0], [\"Zeledon, Ana Maria\", 1], [\"Valle, Engell Jose\", 0]]"
   countrycode: "NI"
-  instagram: ""
+  instagram:
 - id: 60
   url: "new-zealand"
   Teamname: "New Zealand"
@@ -1127,33 +1127,33 @@
   robotname: "NZ Karebots"
   adress: "Auckland, New Zealand"
   frcteam: "Various high schools in Auckland"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-new-zealand"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/new.jpg?fit=4032%2C3024"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Roberts, Kacey\", 1], [\"Gallahar-Ikitule, Daniel\", 0], [\"Asi, Esther\", 1], [\"Ram, Vanshika\", 0]]"
   countrycode: "NZ"
-  instagram: ""
+  instagram:
 - id: 61
   url: "netherlands"
   Teamname: "Netherlands"
   shortname: "Nederland"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Groningen, Netherlands"
   frcteam: "FRC Team 5412 Impossible Robotics"
   website: "http://www.impossible-robotics.com/"
   fgprofile: "http://first.global/nations/team-netherlands"
   facebook: "impossible.robotics"
   twitter: "team5412"
-  youtube: ""
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/07/20170708_172654-e1499613280114.jpg?fit=1500%2C1209"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 0], [\"\", 0]]"
   countrycode: "NL"
   instagram: "https://www.instagram.com/impossiblerobotics/"
@@ -1162,172 +1162,172 @@
   Teamname: "Nepal"
   shortname: "Sanghiya Loktantrik Ganatantra Nepal"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Pharping, Nepal"
   frcteam: "Team Rukubot"
   website: "https://www.rukminifoundation.org/page/3/?s=rukubot"
   fgprofile: "http://first.global/nations/team-nepal"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/IMG_20170627_115456.jpg?fit=640%2C480"
   robotexperience: 1
   qualification: "Selected among pool of 50 students"
   teammembers: "[[\"Maharjan, Bipin\", 0], [\"Thapamagar, Milan\", 0], [\"\", 0], [\"\", 0], [\"Balami, Ruby\", 1], [\"Karki, Monika\", 1]]"
   countrycode: "NP"
-  instagram: ""
+  instagram:
 - id: 63
   url: "namibia"
   Teamname: "Namibia"
   shortname: "Republic of Namibia"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Windhoek, Namibia"
   frcteam: "Delta Secondary School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-namibia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/Namibia-1.jpg?fit=1280%2C852"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Lee, Anthony\", 0], [\"Mouton, Chauncey\", 0], [\"Brendell, Nicole\", 1], [\"Lang, Marcel\", 0], [\"Mbenzi, Wilbard\", 0], [\"Hovelmann, Dorian\", 0], [\"Akpokiniovo, Ufuoma\", 0]]"
   countrycode: "NA"
-  instagram: ""
+  instagram:
 - id: 64
   url: "myanmar"
   Teamname: "Myanmar"
   shortname: "Pyidaunzu Thanmada Myama Nainngandaw"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Yangon, Myanmar"
   frcteam: "Yangon Technological University ILBC University of Information Technology University of Computer Studies Bursa Orhangazi Universitesi, Turkey"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-myanmar"
   facebook: "mmfirstglobal"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/02/IMG_4488_logo6.jpg?fit=1440%2C960"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Kyaw Za Zaw,\", 0], [\"Phone Thiha Kyaw,\", 0], [\"Win, Yuzana\", 1], [\"May Pyae Sone Kyaw,\", 0], [\"Aung, Waiyar\", 0], [\"Wai Yan Htun,\", 0], [\"Tun Htut Aye,\", 0]]"
   countrycode: "MM"
-  instagram: ""
+  instagram:
 - id: 65
   url: "mozambique"
   Teamname: "Mozambique"
   shortname: "Republica de Mocambique"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Maputo City, Mozambique"
   frcteam: "Escola Secundaria Estrela Vermelha\r\nInstituto Iindustrial de Maputo"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-mozambique"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/04/Team-Mozambique.jpg?fit=644%2C483"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Bata, Fernando\", 0], [\"Mendonca, Helder\", 0], [\"Mauricio, Alcina\", 1]]"
   countrycode: "MZ"
-  instagram: ""
+  instagram:
 - id: 66
   url: "morocco"
   Teamname: "Morocco"
   shortname: "al-Mamlakah al-Maghribiyah"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Tangier, Morocco"
   frcteam: "AST Robotics Team from American School of Tangier"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-morocco"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/Screen-Shot-2017-06-27-at-2.22.00-PM-e1498603062660.png?fit=1500%2C845"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "MA"
-  instagram: ""
+  instagram:
 - id: 67
   url: "montenegro"
   Teamname: "Montenegro"
   shortname: "Crna Gora"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Podgorica, Montenegro"
   frcteam: "Middle Electrotehnical Vocational School Vaso Aligrudic"
   website: "http://teammontenegro.com/"
   fgprofile: "http://first.global/nations/team-montenegro"
   facebook: "TeamMontenegroRC"
-  twitter: ""
+  twitter:
   youtube: "UCm3bjUE4D2gWmEiTmG5nulw"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/Nina-Drakulic-Team-Montenegro.jpg?fit=5184%2C3456"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Kokic, Veljko\", 0], [\"Knezevic, Lazar\", 0], [\"Todorovic, Dragan\", 0]]"
   countrycode: "ME"
-  instagram: ""
+  instagram:
 - id: 68
   url: "mongolia"
   Teamname: "Mongolia"
   shortname: "Monggol Ulus"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Ulaanbaatar, Mongolia"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-mongolia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/02/received_1424835934270527.jpeg?fit=2048%2C1152"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "MN"
-  instagram: ""
+  instagram:
 - id: 69
   url: "moldova"
   Teamname: "Moldova"
   shortname: "Republica Moldova"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Chisinau, Moldova"
   frcteam: "RoboRangers (FLL)"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-moldova"
   facebook: "roborangersmd"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/05/nik-1051.jpg?fit=1500%2C998"
   robotexperience: 2
   qualification: "FLL Moldova Champions"
   teammembers: "[[\"Copaci, Andrei\", 0], [\"Feraru, Matvei\", 0], [\"Bocancea, Andrian\", 0], [\"Comendant, Cristian\", 0], [\"Mihalache, Nicolae\", 0], [\"Lebedev, Artiom\", 0]]"
   countrycode: "MD"
-  instagram: ""
+  instagram:
 - id: 70
   url: "micronesia"
   Teamname: "Micronesia"
   shortname: "Federated States of Micronesia"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Lamer, Yap, Micronesia"
   frcteam: "Yap Robo Team from Yap Catholic High School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-micronesia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/04/20170404_083813.jpg?fit=908%2C1245"
   robotexperience: 2
   qualification: "All-Star Team from Habele Yap Robo League"
   teammembers: "[[\"Loochaz, Natasha\", 1\", [\"Gilinug, John Steven\", 0], [\"Yarofalyango, Francis\", 0]] "
   countrycode: "FM"
-  instagram: ""
+  instagram:
 - id: 71
   url: "mexico"
   Teamname: "Mexico"
@@ -1336,71 +1336,71 @@
   robotname: "TLALOC"
   adress: "Mexico City & San Luis Potosi"
   frcteam: "FRC 2283 Panteras & FRC 3478 LamBot"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-mexico"
   facebook: "FIRST-Global-Team-México-231318930694092"
-  twitter: ""
+  twitter:
   youtube: "UCPyVs8uikeRL00UNV66Vqkg"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/IMG_7282.jpg?fit=1136%2C557"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Dávila Tejeida, Antonio\", 0], [\"García Molina, Alonso\", 0], [\"Ascencio Morales, Gerardo Manuel\", 0], [\"Martínez Quintana, Eduardo\", 0], [\"Macías, Andrea Terán\", 1], [\"Orta Parra, Luis Fernando\", 0], [\"Ramos Ortiz, Luis Gerardo\", 0]]"
   countrycode: "MX"
-  instagram: ""
+  instagram:
 - id: 72
   url: "malta"
   Teamname: "Malta"
   shortname: "Repubblika ta' Malta"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Triq Kordin, Malta"
   frcteam: "ICT Institute of MCAST"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-malta"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/05/IMG_20170504_155546.jpg?fit=2252%2C1589"
   robotexperience: 2
   qualification: "Top students in institute"
   teammembers: "[[\"Tonna, Clive\", 0], [\"Abela, Andrea\", 0], [\"Brejza, Patrick\", 0]]"
   countrycode: "MT"
-  instagram: ""
+  instagram:
 - id: 73
   url: "mali"
   Teamname: "Mali"
   shortname: "Republique du Mali"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Bamako, Mali"
   frcteam: "Centre National de l'Education en Robotique du Mali"
   website: "www.robotsmali.org"
   fgprofile: "http://first.global/nations/team-mali"
   facebook: "RobotsMali"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/TeamMali-1-e1499553615520.jpg?fit=1500%2C925"
   robotexperience: 0
   qualification: "Selection process with interviews"
   teammembers: "[[\"Diallo, Seydou\", 0], [\"Traore, Mamadou\", 0], [\"Keita, Dioko\", 0], [\"Keita, Seydina\", 0], [\"Dicko, Aboubakar\", 0], [\"Sakine, Fily Mohamed\", 0], [\"Trierme Traore, Bintou\", 1], [\"Diallo, Sidy Mohamed\", 0], [\"Djiga, Ousmane\", 0], [\"Dicko, Aicha\", 1]]"
   countrycode: "ML"
-  instagram: ""
+  instagram:
 - id: 74
   url: "malaysia"
   Teamname: "Malaysia"
   shortname: "Malaysia"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Nationwide, Malaysia"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-malaysia"
   facebook: "UCRzXRQ7A1XgGcUJd-leG0dQ"
-  twitter: ""
+  twitter:
   youtube: "UCRzXRQ7A1XgGcUJd-leG0dQ"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/IMG_3691-e1499354026350.jpg?fit=1500%2C1125"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Bin Jamil, Muhammad Razif\", 0], [\"Bin Raja Iskandar, Raja Adam Ahmad\", 0], [\"Bin Syanrean, Khairul Amirin\", 0], [\"Bin Mohd Hamdan, Muhammad Arash Danial\", 0], [\"Bin Abdul Samat, Muhammad Fakhrul Khir\", 0], [\"Poh Zi Yi, Janice\", 1], [\"Razin, Rais\", 0]]"
   countrycode: "MY"
   instagram: "firstglobal.malaysia"
@@ -1409,58 +1409,58 @@
   Teamname: "Malawi"
   shortname: "Republic of Malawi"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Nationwide, Malawi"
   frcteam: "National College of Information\r\nPolytechnic of Malawi\r\n+ three high schools"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-malawi"
   facebook: "malawirobotics"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/Malawi.jpg?fit=1936%2C1936"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Mpinda, Nyasha\", 0], [\"Thrakar, Shreya\", 1], [\"Mzungu, Rebecca\", 1], [\"Matope, Eureka\", 0], [\"Mkandawire, Malumbo\", 0], [\"Kapito, Janet\", 1], [\"Dzonzi, Brenald\", 0]]"
   countrycode: "MW"
-  instagram: ""
+  instagram:
 - id: 76
   url: "madagascar"
   Teamname: "Madagascar"
   shortname: "Republique de Madagascar"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Antananarivo, Madagascar"
   frcteam: "STEM4Good"
   website: "http://2017.firstglobal.mg"
   fgprofile: "http://first.global/nations/team-madagascar"
   facebook: "STEM4Good"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/20170629_001917.jpg?fit=2320%2C1792"
   robotexperience: 0
   qualification: "Selection process / Invited by CoderBus"
   teammembers: "[[\"Rafidison, Holitiana Arisoa\", 1], [\"Razafintsialonina, Ny Andrianina Mamy\", 0], [\"Razafiarison, Safidinirina\", 0], [\"Raherimandimby, Tolotra Meddy\", 0], [\"Rasoamanana, Diamondra\", 0], [\"Rakotofiringa, Mitia Henintsoa\", 0]]"
   countrycode: "MG"
-  instagram: ""
+  instagram:
 - id: 77
   url: "luxembourg"
   Teamname: "Luxembourg"
   shortname: "Grand-Duche de Luxembourg"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Nationwide, Luxembourg"
   frcteam: "Lycée des Arts et Métiers"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-luxembourg"
   facebook: "LAMCodeClub"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/06/team_luxembourg-e1498489879581.jpg?fit=1500%2C1001"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Chen, Lina\", 1], [\"Sharma, Atreyam\", 0], [\"Teusch, Shawn\", 0], [\"Marker, Laura\", 0], [\"Baum, Pit\", 0], [\"Dos Santos, Yannick Martins\", 0], [\"Leners, Kimon\", 0]]"
   countrycode: "LU"
-  instagram: ""
+  instagram:
 - id: 78
   url: "lithuania"
   Teamname: "Lithuania"
@@ -1472,14 +1472,14 @@
   website: "www.robotikosmokykla.lt"
   fgprofile: "http://first.global/nations/team-lithuania"
   facebook: "Robotikos.mokykla"
-  twitter: ""
+  twitter:
   youtube: "robotikosmokykla"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/06/Lithuania.jpeg?fit=2048%2C1536"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Briedis, Paulius\", 0], [\"Mickus, Sarunas\", 0], [\"Milius, Karolis\", 0]]"
   countrycode: "LT"
-  instagram: ""
+  instagram:
 - id: 79
   url: "libya"
   Teamname: "Libya"
@@ -1488,74 +1488,74 @@
   robotname: "Acacus"
   adress: "Nationwide, Libya"
   frcteam: "Tech Impact Roboticx4004"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-libya"
   facebook: "TechImpactRobotics"
-  twitter: ""
+  twitter:
   youtube: "UCjoCTLUMN44B41oGU2pG5Ag"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/MG_8775-e1499432494503.jpg?fit=1500%2C1072"
   robotexperience: 0
   qualification: "Selected from pool of 30 students"
   teammembers: "[[\"Twati, Yaseen\", 0], [\"Zeid, Mohammad\", 0], [\"Abusbiha, Abdulrahman\", 0], [\"Oumer, Jehad\", 0], [\"Al-Baraki, Mohamed\", 0], [\"Eljorni, Aris\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "LY"
-  instagram: ""
+  instagram:
 - id: 80
   url: "liberia"
   Teamname: "Liberia"
   shortname: "Republic of Liberia"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Pleebo City, Maryland, Liberia"
   frcteam: "5 Schools in Pleebo Sodoken District"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-liberia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/19449570_1435127289906547_2126401578_o.jpg?fit=2048%2C1152"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Sergbeh, Michael Davies\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 1], [\"\", 1]]"
   countrycode: "LR"
-  instagram: ""
+  instagram:
 - id: 81
   url: "lesotho"
   Teamname: "Lesotho"
   shortname: "Kingdom of Lesotho"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Nationwide, Lesotho"
   frcteam: "sponsored by the Lesotho Science and Maths Teachers Association "
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-lesotho"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/06/IMG_6317-e1496963217899.jpg?fit=1500%2C1000"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Mokhesuoe, Tseliso\", 0], [\"Matserimetse\", 1], [\"Tsoela\", 0]]"
   countrycode: "LS"
-  instagram: ""
+  instagram:
 - id: 82
   url: "lebanon"
   Teamname: "Lebanon"
   shortname: "al-Jumhuriyah al-Lubnaniyah"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Mechref, Lebanon"
   frcteam: "Rafik Hariri Uni. / Fast & Curious / Robobuilders"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-lebanon"
   facebook: "FGCLeb"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/Lebanon-1-e1498744386585.jpg?fit=1500%2C979"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Haymour, Karim\", 0], [\"Shadi\", 0], [\"Malaeb, Wissam\", 0], [\"Kawtharani, Kareem\", 0]]"
   countrycode: "LB"
-  instagram: ""
+  instagram:
 - id: 83
   url: "latvia"
   Teamname: "Latvia"
@@ -1564,128 +1564,128 @@
   robotname: "Frankenbot"
   adress: "Pinki, Latvia"
   frcteam: "H-Bonded"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-latvia"
   facebook: "teamlatviafirstglobal"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/IMG_0699-e1499262411744.jpg?fit=1500%2C1000"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Reinis\", 0], [\"Rihards\", 0], [\"Daria\", 1], [\"Zifan\", 0], [\"Mackenzie\", 0]]"
   countrycode: "LV"
-  instagram: ""
+  instagram:
 - id: 84
   url: "laos"
   Teamname: "Laos"
   shortname: "Sathalanalat Paxathipatai Paxaxon Lao"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Vientiane, Laos"
   frcteam: "Champamaker from National University Laos"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-laos"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/Laos.jpg?fit=3264%2C2448"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Manhkhongsinh, Thidavone\", 0], [\"Khatthaphone, Kataii\", 1], [\"Phanthasombath, Piti\", 0], [\"Phouthavong, Sinkerd\", 0]]"
   countrycode: "LA"
-  instagram: ""
+  instagram:
 - id: 85
   url: "kyrgyzstan"
   Teamname: "Kyrgyzstan"
   shortname: "Kyrgyz Respublikasy"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Bishkek, Kyrgyzstan"
   frcteam: "Altyn Tuyun Engineering Academy"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-kyrgyzstan"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/02/unnamed.jpg?fit=2969%2C2606"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "KG"
-  instagram: ""
+  instagram:
 - id: 86
   url: "kuwait"
   Teamname: "Kuwait"
   shortname: "Dawlat al-Kuwait"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Sabah Al-Salem, Kuwait"
   frcteam: "Al ru'ya Robotics Team"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-kuwait"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/2017-07-02-PHOTO-00000048.jpg?fit=1600%2C1228"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0],  [\"\", 0]]"
   countrycode: "KW"
-  instagram: ""
+  instagram:
 - id: 87
   url: "kosovo"
   Teamname: "Kosovo"
   shortname: "Republika e Kosoves"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Nationwide, Kosovo"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-kosovo"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/06/DSC5460.jpg?fit=1500%2C1000"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Hajrizi, Elita\", 1], [\"Morina, Gezim\", 0], [\"Bajraktari, Liburn\", 0], [\"Statovci, Rigon\", 0], [\"Pajaziti, Flokart\", 0]]"
   countrycode: "XK"
-  instagram: ""
+  instagram:
 - id: 88
   url: "kenya"
   Teamname: "Kenya"
   shortname: "Republic of Kenya"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Nyeri, Kenya"
   frcteam: "Innovate Kenya"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-kenya"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/6E5A9053-e1498503471339.jpg?fit=1500%2C1000"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Wanyeki, Lewis\", 0], [\"Vilembwa, David\", 0], [\"Mwakisha, Baraka\", 0], [\"Wachira, Samuel\", 0]]"
   countrycode: "KE"
-  instagram: ""
+  instagram:
 - id: 89
   url: "kazakhstan"
   Teamname: "Kazakhstan"
   shortname: "Qazaqstan Respyblikasy"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Almaty, Kazakhstan"
   frcteam: "NIS Robotics Kazakhstan"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-kazakhstan"
   facebook: "NisRoboticsKZ"
-  twitter: ""
+  twitter:
   youtube: "UCgOZoeDsUG0tlB1mblJ0p8g"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/1.jpg?w=1280&ssl=1"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Bazarbekov, Olzhas\", 0], [\"Akizhanov, Daniyar\", 0], [\"Sandykbayeva, Danisa\", 1], [\"Kissamiden, Alizhan\", 0], [\"Turganbayev, Daniyar\", 0], [\"Prohorenko, Danil\", 0], [\"Noskov, Nikita\", 0]]"
   countrycode: "KZ"
   instagram: "nis_pmd_fablab_kz"
@@ -1697,93 +1697,93 @@
   robotname: "Nashmiya"
   adress: "Amman, Jordan"
   frcteam: "The Pioneers (from Princess Rahma School)"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-jordan"
   facebook: "JoPioneers"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/IMG-20170213-WA0028.jpg?fit=1016%2C692"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Bader, Sameera\", 1], [\"Sarhan, Sima\", 1], [\"Kanakrieh, Ala\", 1], [\"Al Takrouri Al Tamimi, Ghayd\", 1], [\"Farrah, Rama\", 1], [\"Al Niss, Maya\", 1], [\"Alhreshat, Layan\", 1]]"
   countrycode: "JO"
-  instagram: ""
+  instagram:
 - id: 91
   url: "japan"
   Teamname: "Japan"
   shortname: "Nihon-koku"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Tokyo, Japan"
   frcteam: "Karakuri (Tokyo Ebisu School) FLL"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-japan/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/02/Japan-1.jpg?fit=3840%2C2160"
   robotexperience: 2
   qualification: "Selected open tryouts organized by FIRSt Japan"
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 1]]"
   countrycode: "JP"
-  instagram: ""
+  instagram:
 - id: 92
   url: "jamaica"
   Teamname: "Jamaica"
   shortname: "Jamaica"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Kingston, Jamaica"
   frcteam: "sponsored by Union of Jamaican Alumni Associations"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-jamaica"
   facebook: "firstglobaljamaica"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/20170701_155407-e1499198022658.jpg?fit=1500%2C844"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Clarke, Keano\", 0], [\"Llewelyn, Phillip\", 0], [\"\", 1], [\"\", 1], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "JM"
-  instagram: ""
+  instagram:
 - id: 93
   url: "italy"
   Teamname: "Italy"
   shortname: "Repubblica italiana"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Trento, Italy"
   frcteam: "ITT M. Buonarroti"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-italy"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/04/squad.png?fit=1920%2C1090"
   robotexperience: 0
   qualification: "Selected by secretary of science ministry (FAST)"
   teammembers: "[[\"Ceccato, Gabriele\", 0], [\"Lechthaler, Marco\", 0], [\"Hajruli, Edon\", 0], [\"Matteo\", 0], [\"Lorenzo\", 0], [\"Luca\", 0]]\r\n"
   countrycode: "IT"
-  instagram: ""
+  instagram:
 - id: 94
   url: "israel"
   Teamname: "Israel"
   shortname: "Medinat Yisra'el"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Beersheba, Israel"
   frcteam: "FTC MishMash #12016"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-israel"
   facebook: "FIRST-Global-Israel-1321670394546965"
-  twitter: ""
+  twitter:
   youtube: "UCg-kMkn5eqCOH-gNd9TAvaw"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/05/IMG_3886-e1499256980390.jpg?fit=1500%2C1000"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Elgamir, Yakil\", 0], [\"Gedif, Yosef\", 0], [\"Peretz, Niv\", 0], [\"Kendler, Yael\", 1], [\"Ilyasov, Daniel\", 1], [\"Taboh, Mor\", 0], [\"Kari, Aviad\", 0]]"
   countrycode: "IL"
-  instagram: ""
+  instagram:
 - id: 95
   url: "ireland"
   Teamname: "Ireland"
@@ -1792,55 +1792,55 @@
   robotname: "iBot"
   adress: "Leixlip, Kildare, Ireland"
   frcteam: "Confey College"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-ireland"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/05/Unboxing-3-6x3.jpg?fit=1024%2C507"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Zota, Jennifer\", 1], [\"Briggs, Stephen\", 0], [\"Craven-Grace, Eoghan\", 0], [\"Alinquant, Brendan\", 0]]"
   countrycode: "IE"
-  instagram: ""
+  instagram:
 - id: 96
   url: "iraq"
   Teamname: "Iraq"
   shortname: "Jumhuriyyat al-'Iraq"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Basra, Iraq"
   frcteam: "rep. Science Camp (Iraqi Maker Space)"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-iraq"
   facebook: "firstteamIQ"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/IMG_20170627_200511_976.jpg?fit=886%2C581"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Bassel, Yassir\", 0], [\"Al-Shati, Mohammed\", 0], [\"Al-Behadili, Ali\", 0], [\"Al-Battat, Mohammed\", 0]]"
   countrycode: "IQ"
-  instagram: ""
+  instagram:
 - id: 97
   url: "iran"
   Teamname: "Iran"
   shortname: "Jomhuri-ye Eslami-ye Iran"
   year: 2017
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-iran"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/02/WhatsApp-Image-2017-06-09-at-6.20.48-AM.jpeg?fit=1080%2C810"
   robotexperience: 2
   qualification: "Unable to receive kit; Robot constructed by FRC 5549 Gryphons.exe"
   teammembers: "[[\"Dadkhah, Amin\", 0], [\"Khalili, Alireza\", 0], [\"Mizbani, Poriya\", 0]]"
   countrycode: "IR"
-  instagram: ""
+  instagram:
 - id: 98
   url: "indonesia"
   Teamname: "Indonesia"
@@ -1849,131 +1849,131 @@
   robotname: "Wowwi"
   adress: "Depok, Indonesia"
   frcteam: "TechnoNatura International Madrasah Robotics Team"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-indonesia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/team-official-indonesia-4-e1499264220351.jpg?fit=1500%2C1125"
   robotexperience: 2
   qualification: "School selected by US Embassy\r\n"
   teammembers: "[[\"Wahono, Ahmad Hisham\", 0], [\"Hendrawan, Miskawaih\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]\r\n"
   countrycode: "ID"
-  instagram: ""
+  instagram:
 - id: 99
   url: "india"
   Teamname: "India"
   shortname: "Republic of India"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Mumbai, India"
-  frcteam: ""
+  frcteam:
   website: "www.firstglobalindia.com"
   fgprofile: "http://first.global/nations/team-india"
   facebook: "FGCINDIA"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/IMG_3404-e1498142949112.jpg?fit=1500%2C1000"
   robotexperience: 2
   qualification: "Selected among 100 applicants"
   teammembers: "[[\"Saraf, Rahesh\", 0], [\"Shah, Aadiv\", 0], [\"Bhatt, Harsh\", 0], [\"Suchak, Vatsin\", 0], [\"Sekhsaria, Adhyyan\", 0], [\"Ramdas, Tejas\", 0], [\"Ringshia, Raghav\", 0]]"
   countrycode: "IN"
-  instagram: ""
+  instagram:
 - id: 100
   url: "iceland"
   Teamname: "Iceland"
   shortname: "Island"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Reykjavik, Iceland"
   frcteam: "Taekniskolinn Reykjavik"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-iceland"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/18818143_1416003975153723_348469675_o.jpg?fit=2048%2C1152"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Arnason, Jon Robert\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 1]]"
   countrycode: "IS"
-  instagram: ""
+  instagram:
 - id: 101
   url: "hungary"
   Teamname: "Hungary"
   shortname: "Magyarorszag"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Balatonalmadi, Hungary"
   frcteam: "DLSBrainstorms_roboteam"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-hungary"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/groupteamphotofinal.jpg?fit=1280%2C960"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Bikki, Gergely\", 0], [\"Boka, Adam\", 0], [\"Lami, Szilvia\", 1], [\"Ipkovich, Adam\", 0], [\"Hujber, Akos\", 0], [\"Gyimesi, Norbert\", 0], [\"Gyori, Csanad\", 0]]"
   countrycode: "HU"
-  instagram: ""
+  instagram:
 - id: 102
   url: "hong-kong"
   Teamname: "Hong Kong"
   shortname: "Jung'wah Yahnmahn Guhng'wohgwok Heunggong Dahkbiht Hahngjingkeui"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Mid-levels, Hong Kong"
   frcteam: "King's College"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-hong-kong"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/P_20170525_175519_1_edited-e1496422620936.jpg?fit=1500%2C1125"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "HK"
-  instagram: ""
+  instagram:
 - id: 103
   url: "honduras"
   Teamname: "Honduras"
   shortname: "Republica de Honduras"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Camasca, Intibucá, Honduras"
   frcteam: "Giant Slayers rep. Hombro a Hombro"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-honduras"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/Team-Honduras-2-Flag-e1498658965200.jpg?fit=1500%2C1000"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Portillo, Melissa\", 1], [\"Floribel Lemus, Melissa\", 1], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "HN"
-  instagram: ""
+  instagram:
 - id: 104
   url: "haiti"
   Teamname: "Haiti"
   shortname: "République d'Haïti | Repiblik Ayiti"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Port-au-Prince, Haiti"
   frcteam: "Institution Nouvelle Source"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-haiti"
   facebook: "Team-Haiti-First-Global-Robot-Challenge-1568034833249242/"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/03/Team-photo-1.jpg?fit=6000%2C4000"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Lovensky, Francois Carl\", 0], [\"Alceus, Alex Abigael\", 0], [\"Perceval, Wilford Guensly\", 0]]"
   countrycode: "HT"
-  instagram: ""
+  instagram:
 - id: 105
   url: "guyana"
   Teamname: "Guyana"
@@ -1985,33 +1985,33 @@
   website: "stemguyana.com"
   fgprofile: "http://first.global/nations/team-guyana"
   facebook: "STEMGuyana"
-  twitter: ""
+  twitter:
   youtube: "channel/UCTqTS2SxvTyhDFDSU8aTQLg"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/05/TeamGYRobotics.jpg?fit=1826%2C1260"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Ramnarace, Vevekeanand\", 0], [\"Benschop, Ryan\", 0], [\"Nelson, Christopher\", 0], [\"Frank, Anthony\", 0], [\"Mahase, Arrianna\", 1], [\"Poese, Sahief\", 1]]"
   countrycode: "GY"
-  instagram: ""
+  instagram:
 - id: 106
   url: "guatemala"
   Teamname: "Guatemala"
   shortname: "República de Guatemala"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Guatemala, Guatemala & others"
   frcteam: "Balam Geeks Guatemala"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-guatemala"
   facebook: "First-Global-Team-Guatemala-126179211283941/"
-  twitter: ""
+  twitter:
   youtube: "channel/UCG1JO6L206sxL9PTU2iFNhA"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/05/todos.png?fit=1200%2C570"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Taque De Leon, Andrea Mariel\", 1], [\"Argueta Wolke, Maria Fernanda\", 1], [\"Cutzan, Edward Leonel\", 0], [\"Navarro Rodriguez, Willson Jefferson Alexander\", 0], [\"Chiguichon Sibrian, German Omar\", 0], [\"Guzman Rivera, Alex Roberto\", 0], [\"Sactic Tuch, Marlon Alexander\", 0], [\"Flores Garcia, Luis Antonio\", 0]]"
   countrycode: "GT"
-  instagram: ""
+  instagram:
 - id: 107
   url: "grenada"
   Teamname: "Grenada"
@@ -2019,75 +2019,75 @@
   year: 2017
   robotname: "Spice Bot"
   adress: "Saint George's, Grenada"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-grenada"
   facebook: "GrenadaSpiceBot2017"
-  twitter: ""
+  twitter:
   youtube: "channel/UCZMDPOygb2JlER6VSs45p6g"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/03/DSC5353.jpg?fit=1500%2C1000"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Shears, Karston\", 0], [\"Best, Nathan\", 0], [\"Frank, Keslee\", 1], [\"Morin, Kerona\", 1], [\"Pysadee, Wasim\", 0], [\"Cato, Vejay\", 0]]"
   countrycode: "GD"
-  instagram: ""
+  instagram:
 - id: 108
   url: "greece"
   Teamname: "Greece"
   shortname: "Elliniki Dimokratia"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Xanthi, Greece"
   frcteam: "RoboSpecialists"
   website: "www.robospecialists.gr"
   fgprofile: "http://first.global/nations/team-greece"
   facebook: "RoboSpecialists-915159145200188"
-  twitter: ""
+  twitter:
   youtube: "channel/UC_ILa1ckk_TtXG1wB5NlcYg"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/8-e1492784094194.jpg?fit=1500%2C1000"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Pantazidis, Alexandros\", 0], [\"Kapoussouzis, Apostolos\", 0], [\"Theodorakas, Vangelis\", 0], [\"Grigoriades, Antonis\", 0], [\"Zerenidis, Konstantinos\", 0]]"
   countrycode: "GR"
-  instagram: ""
+  instagram:
 - id: 109
   url: "ghana"
   Teamname: "Ghana"
   shortname: "Republic of Ghana"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Sekondi-Takoradi, Ghana"
   frcteam: "Archbishop Porter’s Girls School & STEMBees"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-ghana"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/P6240118-e1498766477674.jpg?fit=1500%2C1125"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Mena Yaa Owu, Charlene\", 1], [\"Koomson, Emmanuella Baaba\", 1], [\"\", 1], [\"\", 1], [\"\", 1], [\"\", 1]]"
   countrycode: "GH"
-  instagram: ""
+  instagram:
 - id: 110
   url: "germany"
   Teamname: "Germany"
   shortname: "Bundesrepublik Deutschland"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Stuttgart, Germany"
   frcteam: "\"F.R.O.G.S.\" Königin-Katharina-Stift (FTC Team)"
   website: "http://blog.firstglobalgermany.de/"
   fgprofile: "http://first.global/nations/team-germany"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/Germany.jpg?fit=1024%2C768"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Alexis\", 0], [\"Eylert\", 0], [\"Kira\", 1], [\"Lynn\", 1], [\"Robter\", 0]]"
   countrycode: "DE"
-  instagram: ""
+  instagram:
 - id: 111
   url: "georgia"
   Teamname: "Georgia"
@@ -2096,71 +2096,71 @@
   robotname: "GIVI"
   adress: "Tbilisi, Georgia"
   frcteam: "American Academy in Tbilisi"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-georgia"
   facebook: "FIRSTGlobalTeamGeorgia"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/05/GlobalChallenge1-1.jpg?fit=960%2C720"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Bregadze, Sophie\", 1], [\"Kachniauri, Kate\", 1], [\"Bakhtadze, Elene\", 1], [\"Bakuradze, Rezi\", 0], [\"Andria\", 0], [\"Givi\", 0], [\"Levan\", 0]]"
   countrycode: "GE"
-  instagram: ""
+  instagram:
 - id: 112
   url: "gambia"
   Teamname: "Gambia"
   shortname: "Republic of The Gambia"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Banjul, The Gambia"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-gambia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/06/WhatsApp-Image-2017-07-03-at-10.30.00-AM.jpeg?fit=1080%2C607"
   robotexperience: 1
   qualification: "Visas were initially denied"
   teammembers: "[[\"Bah, Alieu\", 0], [\"Gassama, Khadijatou\", 1], [\"Ceesay, Fatoumata\", 1], [\"\", 0], [\"\", 0]]"
   countrycode: "GM"
-  instagram: ""
+  instagram:
 - id: 113
   url: "gabon"
   Teamname: "Gabon"
   shortname: "République gabonaise"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Port-Gentil, Gabon"
   frcteam: "Jean Fidèle Otando Technical High School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-gabon"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/05/IMG_20170627_141510.jpg?fit=2560%2C1920"
   robotexperience: 0
   qualification: "Selected by a committee of 7 officials"
   teammembers: "[[\"Grazelia, Guibinda Simbou\", 1], [\"Macongue, Alan Othoniel\", 0], [\"Dossou, François Romain\", 0]]"
   countrycode: "GA"
-  instagram: ""
+  instagram:
 - id: 114
   url: "france"
   Teamname: "France"
   shortname: "République française"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Gaillon, France"
   frcteam: "WeRobot"
   website: "https://werobotfr.wixsite.com/werobot2"
   fgprofile: "http://first.global/nations/team-france"
   facebook: "WeRobot"
   twitter: "werobot_FR"
-  youtube: ""
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/04/IMG_1909.jpg?fit=3649%2C2053"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\",Mathis, 0], [\",Antoine, 0], [\"Giton, Quentin\", 0]]"
   countrycode: "FR"
   instagram: "werobot"
@@ -2169,77 +2169,77 @@
   Teamname: "Finland"
   shortname: "Suomen tasavalta"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Espoo, Finland"
   frcteam: "Olari High School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-finland"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/Team_Finland-e1495112299122.jpg?fit=1500%2C1042"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Friberg, Theo\", 0], [\"Saarhelo, Laura\", 1], [\"Naatula, Simo\", 0]]"
   countrycode: "FI"
-  instagram: ""
+  instagram:
 - id: 116
   url: "ethiopia"
   Teamname: "Ethiopia"
   shortname: "ye'Itiyoppya Federalawi Demokirasiyawi Ripebilik"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Adama, Ethiopia"
   frcteam: "Atlas Technology College / became FRC 6973 "
   website: "http://www.firstroboticsethiopia.org"
   fgprofile: "http://first.global/nations/team-ethiopia"
   facebook: "firstroboticsethiopia"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/5-e1487853597478.jpg?fit=1500%2C868"
   robotexperience: 0
   qualification: "Selection process (interviews)"
   teammembers: "[[\"Abiy, Kaleab\", 0], [\"Abiy, Dagim\", 0], [\"Birhanu, Bereket\", 0], [\"Yehualaeshet, Meles\"], [\"Abiyot, Biruk\", 1], [\"Fikadu, Bamlak\", 1]]"
   countrycode: "ET"
-  instagram: ""
+  instagram:
 - id: 117
   url: "estonia"
   Teamname: "Estonia"
   shortname: "Eesti Vabariik"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Tallinn, Estonia"
   frcteam: "Robootika.COM"
   website: "http://www.robootika.com/"
   fgprofile: "http://first.global/nations/team-estonia"
   facebook: "RobootikaCOM"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/L1002286-e1498771870642.jpg?fit=1501%2C994"
   robotexperience: 2
   qualification: "Winners \"Estonia's Best Robotics School\" FTC, FLL & Robotex"
   teammembers: "[[\"Kalle, Nils Norman\", 0], [\"Reidma, Kaur\", 0], [\"Loomets, Timo\", 0], [\"Roop, Jaan\", 0], [\"Sepp, Ramses\", 0]]"
   countrycode: "EE"
-  instagram: ""
+  instagram:
 - id: 118
   url: "equatorial-guinea"
   Teamname: "Equatorial Guinea"
   shortname: "Republica de Guinea Ecuatorial"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Malabo, Equatorial Guinea"
   frcteam: "Nigeria Equatorial Guinea International School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-equatorial-guinea"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/Equatorial-Guinea.jpg?fit=1600%2C1200"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0], [\"\", 1], [\"\", 1]]"
   countrycode: "GQ"
-  instagram: ""
+  instagram:
 - id: 119
   url: "egypt"
   Teamname: "Egypt"
@@ -2248,33 +2248,33 @@
   robotname: "7anafy"
   adress: "Alexandria, Egypt"
   frcteam: "Young Leaders Academy Team"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-egypt"
   facebook: "First-Global-Team-Egypt-1330172280384238/"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/02/team-photo.jpg?fit=2817%2C1942"
   robotexperience: 2
   qualification: "FLL and VEX Worlds Team"
   teammembers: "[[\"Essam, Mohamed\", 0], [\"Yassien, Amany\", 1], [\"Ragab, Yomna\", 1], [\"el Bana, Mohannad\", 0]]"
   countrycode: "EG"
-  instagram: ""
+  instagram:
 - id: 120
   url: "ecuador"
   Teamname: "Ecuador"
   shortname: "Republica del Ecuador"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Guayaquil, Ecaudor"
   frcteam: "FRC Robota 5814"
   website: "http://www.robota5814-ec.org/"
   fgprofile: "http://first.global/nations/team-ecuador"
   facebook: "FGCTeamEcuador"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/Ecuador.jpg?fit=4272%2C2848"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Sanchez, Francisco\", 0], [\"Segovia, Isaac\", 0], [\",\", 0], [\",\", 0], [\",\", 1]]"
   countrycode: "EC"
   instagram: "robota_5814"
@@ -2283,77 +2283,77 @@
   Teamname: "Dominican Republic"
   shortname: "Republica Dominicana"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Santo Domingo"
   frcteam: "FRC Team 4091 DRIFT"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/dominican-republic/"
   facebook: "TeamDominicanRepublicfirstglobal"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/IMG_0256-e1495479252197.jpg?fit=1500%2C1121"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"\", 1], [\"\", 1], [\"\", 1], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "DO"
-  instagram: ""
+  instagram:
 - id: 122
   url: "dominica"
   Teamname: "Dominica"
   shortname: "Commonwealth of Dominica"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Roseau, Dominica"
   frcteam: "Dominica State College"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-dominica"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/06/Team-Dominica-Bio-pic.jpg?fit=1237%2C818"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Roberts, Kemuel\", 0], [\"Edwards, Shanae\", 1], [\"Xavier, Rhea\", 1], [\"Paul, Kyle\", 0]]"
   countrycode: "DM"
-  instagram: ""
+  instagram:
 - id: 123
   url: "denmark"
   Teamname: "Denmark"
   shortname: "Kongeriget Danmark"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Silkeborg, Denmark"
   frcteam: "Teknisk Gymnasium Silkeborg"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-denmark"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/04/Team-Denmark.jpg?fit=2048%2C1102"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\" , Rasmus\", 0], [\" , Christian\", 0], [\" , Michael\", 0], [\" , Esben\", 0]]"
   countrycode: "DK"
-  instagram: ""
+  instagram:
 - id: 124
   url: "czech-republic"
   Teamname: "Czech Republic"
   shortname: "Ceska republika"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Pardubice, Czech Republic"
   frcteam: "MaVyT representing DELTA"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/czech-republic/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/06/CZ1.jpg?fit=3264%2C2448"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\" , Tomas\", 0], [\", Jakub\", 0], [\", Ondra\", 0]]"
   countrycode: "CZ"
-  instagram: ""
+  instagram:
 - id: 125
   url: "cyprus"
   Teamname: "Cyprus"
@@ -2362,150 +2362,150 @@
   robotname: "Jenny The Robot"
   adress: "Lakatamia, Cyprus"
   frcteam: "Later became FTC Epiteugma Revved Up 13906"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-cyprus"
   facebook: "EpiteugmaRevvedUp"
-  twitter: ""
+  twitter:
   youtube: "channel/UCxKvS38v19TyBWkt4JK7oUw"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/DSC_2979-e1498654316733.jpg?fit=1500%2C844"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Kourris, Antreas\", 0], [\"Stavrou, Marilyn\", 1], [\"Orphanides, Gregory\", 0], [\"Soteriou, Christos\", 0], [\"Pitsillis, Michalis\", 0]]"
   countrycode: "CY"
-  instagram: ""
+  instagram:
 - id: 126
   url: "cuba"
   Teamname: "Cuba"
   shortname: "Republica de Cuba"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Matanzas, Cuba"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-cuba"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/06/20170620_171602-e1498134495666.jpg?fit=1500%2C844"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\", Jonathan\", 0], [\", Jose Armando\", 0], [\", Juan Manuel\", 0], [\", Elvis\", 0]]"
   countrycode: "CU"
-  instagram: ""
+  instagram:
 - id: 127
   url: "croatia"
   Teamname: "Croatia"
   shortname: "Republika Hrvatska"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Zagreb, Croatia"
   frcteam: "Croatian Robotic Association"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-croatia"
   facebook: "hrobos"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/Croatia_team.jpeg?fit=1280%2C719"
   robotexperience: 2
   qualification: "Selected among robotics organization"
   teammembers: "[[\"Uroic, Leon Stjepan\", 0], [\"Matej Dudaric\", 0], [\"Krnjajic, Ema Kristina\", 1]]"
   countrycode: "HR"
-  instagram: ""
+  instagram:
 - id: 128
   url: "costa-rica"
   Teamname: "Costa Rica"
   shortname: "Republica de Costa Rica"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Limón, Costa Rica"
   frcteam: "American Corner Limón Public Library"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-costa-rica"
   facebook: "Team-Costa-Rica-1865319010386648/?hc_ref=ARRDv0yFtQ5nd5YWk4_psEYKiLWrFfAiJ0309m2pZJl0Ll6xbJ_5Q8jjUdNqrUETNas"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/04/TeamCR-2.jpeg?fit=1280%2C851"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Romero Umana, Joustin\", 0], [\"Castillo Acevedo, Daniel\", 0], [\"Maxwell, Johary Hunter\", 0]]"
   countrycode: "CR"
-  instagram: ""
+  instagram:
 - id: 129
   url: "congo-dr"
   Teamname: "Congo, Democratic Republic of"
   shortname: "République démocratique du Congo"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Bukavu, South Kivu"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-democratic-republic-of-the-congo/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/Congo.jpg?fit=1136%2C756"
   robotexperience: 1
   qualification: "Juries selected 2 students per school"
-  teammembers: ""
+  teammembers:
   countrycode: "CD"
-  instagram: ""
+  instagram:
 - id: 130
   url: "colombia"
   Teamname: "Colombia"
   shortname: "República de Colombia"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Manizales, Colombia"
   frcteam: "National Learning Service SENA"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-colombia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/IMG-20170509-WA0004.jpg?fit=1152%2C648"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"del Pilar Barrios González, Natalia\", 1], [\"Hurtado Sánchez, Ana María\", 1], [\"Cárdenas Cardona, Jeison Camilo\", 0], [\"Madroñero Sánchez, David Esteban\", 0]]"
   countrycode: "CO"
-  instagram: ""
+  instagram:
 - id: 131
   url: "chinese-taipei"
   Teamname: "Chinese Taipei"
   shortname: "&#20013;&#21326;&#21488;&#21271"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Taipei, Republic of China"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-chinese-taipei"
   facebook: "First-Global-team-Taiwan-1381191241972086/?hc_ref=ARRn4OvDkuV163yNTI9mWOm2K3QuV03QiJGDeLtlApqb8Kpi0O4N0HagmxefQTfzaKU&fref=nf"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/TAIWAN.jpg?fit=3264%2C2448"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "TW"
-  instagram: ""
+  instagram:
 - id: 132
   url: "china"
   Teamname: "China"
   shortname: "&#20013;&#21326;&#20154;&#27665;&#20849;&#21644;&#22269;"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Beijing, China"
   frcteam: "Various Beijing FRC Teams"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-china"
   facebook: "fgc.china?hc_ref=ARSbij85v_5y_bsd4GkiOj_MHQzUweB2bgvtikm91EhlrXBjRuspYhOGqmnU80JJlk4"
-  twitter: ""
+  twitter:
   youtube: "channel/UCzR9LxG4c5fBxMtbLxpdW1Q"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/DSC00115-e1498659449104.jpg?fit=1500%2C1000"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Chi, Tony\", 0], [\"Xu, Harry\", 0], [\"Shi, Tim\", 0], [\"Chen, Tyrone\", 0], [\"Yao, Martin\", 0], [\"Shi, Sunny\", 1], [\"Tao, Helen\", 1]]"
   countrycode: "CN"
-  instagram: ""
+  instagram:
 - id: 133
   url: "chile"
   Teamname: "Chile"
@@ -2514,17 +2514,17 @@
   robotname: "Gearwall"
   adress: "Santiago de Chile"
   frcteam: "FRC 2576"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-chile"
   facebook: "Team-Chile-FIRST-Global-1675275439446943/"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/Team-Chile.jpg?fit=1500%2C997"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Abarca, Macarena\", 1], [\"Ortiz, Laura\", 1], [\"Ferrada, Oscar\", 0], [\"Mendoza, Fabian\", 0], [\"Mancilla, Ignacio\", 0], \r\n[\"Martinez, Javiera\", 1], [\"Mera, Pablo\", 0]]"
   countrycode: "CL"
-  instagram: ""
+  instagram:
 - id: 134
   url: "canada"
   Teamname: "Canada"
@@ -2543,121 +2543,121 @@
   qualification: "Montreal Regional Woodie Flowers Award"
   teammembers: "[[\"Belanger, Christopher\", 0], [\"Bisson, Raphael\", 0], [\"Cadorette, Logan\", 1], [\"Giffard, Felix\", 0], [\"Gulliver, Timothy\", 0], [\"Leonard, Felix\", 0], [\"Renaud, Etienne\", 0]]"
   countrycode: "CA"
-  instagram: ""
+  instagram:
 - id: 135
   url: "cameroon"
   Teamname: "Cameroon"
   shortname: "Republic of Cameroon | RÃ©publique du Cameroun"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "YaoundÃ©, Cameroo"
   frcteam: "Team Logibots from Tassah Academy"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-cameroon"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/WhatsApp-Image-2017-07-03-at-12.36.19-PM.jpeg?fit=1080%2C810"
   robotexperience: 2
   qualification: "Selected among STEM Club"
-  teammembers: ""
+  teammembers:
   countrycode: "CM"
-  instagram: ""
+  instagram:
 - id: 136
   url: "cambodia"
   Teamname: "Cambodia"
   shortname: "&#6038;&#6098;&#6042;&#6087;&#6042;&#6070;&#6023;&#6070;&#6030;&#6070;&#6021;&#6016;&#6098;&#6042;&#6016;&#6040;&#6098;&#6038;&#6075;&#6023;&#6070;"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Siem Reap Province, Cambodia"
   frcteam: "Caring for Cambodia Robotics Team"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-cambodia"
   facebook: "CFC-Robotic-Team-Cambodia-933667446770493/?hc_ref=ARToIyU-lzH_L6SBGti77E5nN5rHesLE9quiMmh9W8mkqFjcD3B0BfZIMSSxOPV0Qm0&fref=nf"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/Team-Profile-Team-Cambodia.jpg?fit=1299%2C866"
   robotexperience: 1
   qualification: "Selected by Sponsor Among Two Local Schools"
   teammembers: "[[\"\", 1], [\"\", 1], [\"\", 1], [\"\", 1], [\"\", 0], [\"\", 0]]"
   countrycode: "KH"
-  instagram: ""
+  instagram:
 - id: 137
   url: "cabo-verde"
   Teamname: "Cabo Verde"
   shortname: "RepÃºblica de Cabo Verde"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Mindelo & Sao Vicente"
   frcteam: "S.S. Ludgero Lima & Industrial e Comercial Mindelo"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-cabo-verde"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/06/DSC_0093-e1498144357979.jpg?fit=1500%2C1000"
   robotexperience: 1
   qualification: "Students individually selected"
   teammembers: "[[\"Regala, Augusto\", 0], [\"Jesus, Caetano\", 0], [\"Brito, Jose Perdo\", 0], [\"Correia, Silviane\", 1]]"
   countrycode: "CV"
-  instagram: ""
+  instagram:
 - id: 138
   url: "burundi"
   Teamname: "Burundi"
-  shortname: ""
+  shortname:
   year: 2017
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-burundi"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/IMG-20170702-WA0005.jpg?fit=1080%2C607"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "BI"
-  instagram: ""
+  instagram:
 - id: 139
   url: "burkina"
   Teamname: "Burkina Faso"
   shortname: "Burkina Faso"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Bobo-Dioulasso"
   frcteam: "Université Aube Nouvelle"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-burkina"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/20170628_190635-e1498775486678.jpg?fit=1500%2C1125"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Sawadogo, T. Boris Martial\", 0], [Bere, Patrick Tegawendé\", 0]]"
   countrycode: "BF"
-  instagram: ""
+  instagram:
 - id: 140
   url: "bulgaria"
   Teamname: "Bulgaria"
   shortname: "&#1056;&#1077;&#1087;&#1091;&#1073;&#1083;&#1080;&#1082;&#1072; &#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1080;&#1103;"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Sofia, Bulgaria"
   frcteam: "Robopartans School of Robotics"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-bulgaria"
   facebook: "FGC-Team-Bulgaria-479993382332099/?hc_ref=ARRkgh9j1gsvDp-I0IzdRWW2wdKqWP5OCMubpHez-Y72rd2d9wA4m6fPtv1m_xDRS0A"
-  twitter: ""
+  twitter:
   youtube: "channel/UCNomCIHji76tj4y3ZyJVwrw"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/BulgarianTeam.jpg?fit=4912%2C2760"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\", Rada\", 1], [\"Stanchev, Niki\", 0], [\"Sotirov, Niki\", 0], [\", Pepi\", 0], [\", Zaki\", 0]]"
   countrycode: "BG"
-  instagram: ""
+  instagram:
 - id: 141
   url: "brunei-darussalam"
   Teamname: "Brunei Darussalam"
@@ -2665,56 +2665,56 @@
   year: 2017
   robotname: "PiR^2"
   adress: "Several cities in Brunei"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-brunei/"
   facebook: "fgbruneiteam"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/05/IMG-20170521-WA0009.jpg?fit=1080%2C720"
   robotexperience: 1
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "BN"
-  instagram: ""
+  instagram:
 - id: 142
   url: "brazil"
   Teamname: "Brazil"
   shortname: "RepÃºblica Federativa do Brasil"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Cachoeira de Minas, Brazil"
   frcteam: "TILT"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-brazil"
   facebook: "equipetilt"
-  twitter: ""
+  twitter:
   youtube: "user/equipetilt"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/F2-e1499302396444.jpg?fit=1500%2C1004"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\", Sofia\", 1], [\", Luiz Gabriel\", 0], [\" , Joao Victor\", 0], [\", Nathan\", 0]]"
   countrycode: "BR"
-  instagram: ""
+  instagram:
 - id: 143
   url: "botswana"
   Teamname: "Botswana"
   shortname: "Republic of Botswana"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Ramotswa, Botswana"
   frcteam: "Kagiso Senior Secondary School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-botswana"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/06/DSC_5669-e1498139741537.jpg?fit=1500%2C994"
   robotexperience: 0
   qualification: "Selected on Merit in School"
   teammembers: "[[\"Nakedi, Kamogelo\", 0], [\"Elang Tau, Robin Kagiso\", 0], [\"Botsalo Makhura, Naomi\", 1], [\"Radikara, Laone Terrence\", 0], [\"Tsamai, Laone Gorata\", 0]]"
   countrycode: "BW"
-  instagram: ""
+  instagram:
 - id: 144
   url: "bosnia-and-herzegovina"
   Teamname: "Bosnia and Herzegovina"
@@ -2723,36 +2723,36 @@
   robotname: "BosnaBot"
   adress: "Sarajevo"
   frcteam: "Srednja elektrotehnicka skola"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-bosnia-and-herzegovina"
   facebook: "BosnaBotTeam"
-  twitter: ""
+  twitter:
   youtube: "channel/UCI4h0R0uDYWZ48-5iTMW6kQ"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/IMG_20170517_121010.jpg?fit=4160%2C2336"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Ugrincic, Stela\", 1], [\"Kapetanovic, Bakir\", 0], [\"Mulavdic, Mirza\", 0], [\"Aksamovic, Admir\", 0]]"
   countrycode: "BA"
-  instagram: ""
+  instagram:
 - id: 145
   url: "bolivia"
   Teamname: "Bolivia"
   shortname: "Estado Plurinacional de Bolivia"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Sucre, Bolivia"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-bolivia"
   facebook: "FirstBolivia"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/TEAM-PROFILE.jpg?fit=1280%2C960"
   robotexperience: 2
   qualification: "Winners Bolivian Olympics of Robotics 2016"
   teammembers: "[[\"Malpartida Negrón, Fabián Ignacio\", 0], [\"Núñez Arroyo, Alejandro\", 0], [\"Fernández Durán, Luis Ricardo\", 0], [\"Terán Cruz, Susan Jhoseline\", 1]]\r\n"
   countrycode: "BO"
-  instagram: ""
+  instagram:
 - id: 146
   url: "bermuda"
   Teamname: "Bermuda"
@@ -2761,213 +2761,213 @@
   robotname: "V3"
   adress: "Pembroke Parish"
   frcteam: "Triangular Paradise from The Bermuda High School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-bermuda"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/06/IMG_3331-e1498854409211.jpg?fit=1500%2C1125"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Grainge, Katie\", 1], [\"Young, Kameron\", 1], [\"Worrell, Nadhiri Simons\", 1], [\"Lee, Ashlyn\", 1], [\"Isaeva, Yulia\", 1]]\r\n"
   countrycode: "BM"
-  instagram: ""
+  instagram:
 - id: 147
   url: "benin"
   Teamname: "Benin"
   shortname: "RÃ©publique du BÃ©nin"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Cotonou, Benin"
   frcteam: "BeninBot"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-benin"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/Benin.jpg?fit=6000%2C4000"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Chabi, Kevin\", 0], [\"Simon Afangnon, Edouardo\", 0], [\"Achille, Ichola Alokpo\", 0], [\"Tohougnan, Claudel\", 0], [\"Vigan, Ross-Marie\", 1]]"
   countrycode: "BJ"
-  instagram: ""
+  instagram:
 - id: 148
   url: "belgium"
   Teamname: "Belgium"
   shortname: "Koninkrijk BelgiÃ« | Royaume de Belgique"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Brussels, Belgium"
   frcteam: "Sint-Peters College, Ath&#233;n&#233; Royal de Tamine"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-belgium"
-  facebook: ""
-  twitter: ""
+  facebook:
+  twitter:
   youtube: "channel/UCqmidhazCefwFXBTGkZrkng"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/05/TEAM-BELGIUM.jpg?fit=1280%2C719"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Villette, Emile\", 0], [\"Badie, Quentin\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "BE"
-  instagram: ""
+  instagram:
 - id: 149
   url: "belarus"
   Teamname: "Belarus"
   shortname: "&#1056;&#1101;&#1089;&#1087;&#1091;&#1073;&#1083;&#1110;&#1082;&#1072; &#1041;&#1077;&#1083;&#1072;&#1088;&#1091;&#1089;&#1100"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Minsk, Belarus"
   frcteam: "ITeen Academy"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-belarus"
   facebook: "Robo4U"
-  twitter: ""
+  twitter:
   youtube: "channel/UCwOY0DAFbnP-vWXGLrUT6_A"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/04/Photo-team-Belarus2.jpg?fit=4064%2C2709"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Belatselava, Valiantsina\", 1], [\"Sanko, Uladzimir\", 0], [\"Klimovich, Maksim\", 0], [\"Izgachou, Ivan\", 0], [\"Kulsha, Aliaksandr\", 0], [\"Valakhanovich, Darya\", 1], [\"Shipileuski, Maxim\", 0]]"
   countrycode: "BY"
-  instagram: ""
+  instagram:
 - id: 150
   url: "barbados"
   Teamname: "Barbados"
   shortname: "Barbados"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Bridgetown, Barbados"
   frcteam: "Queen's College and Combermere School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-barbados"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/06/2017-06-30-PHOTO-00000517.jpg?fit=1024%2C683"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Goodridge, Donavan\", 0], [\"Giles, Xavier\", 0], [\"Blades, Akeem\", 0], [\"Rudder-Fields, Tabari\", 0], [\"Maharaj, Videsh\", 0], [\"Burnett, Russell\", 0], [\"Proverbs-Harris, Zachary\", 0]]\r\n"
   countrycode: "BB"
-  instagram: ""
+  instagram:
 - id: 151
   url: "bangladesh"
   Teamname: "Bangladesh"
   shortname: "Ganaprajatantri Bamladesa"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Dhaka, Bangladesh"
   frcteam: "The Tech Academy"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-bangladesh"
   facebook: "TheTechAcademyBD"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/IMG_0784.jpg?fit=1008%2C756"
   robotexperience: 2
   qualification: "Selected in application process"
   teammembers: "[[\"Rahman, Labib Tazwar\", 0], [\"Mahmud, Sujoy\", 0], [\"Islam, Azman\", 0], [\"Dip Mohanta, Adrian\", 0], [\"Imam Saqeef, Shah\", 0], [\"Bergman Hossain, Laleh-naz\", 1]]"
   countrycode: "BD"
-  instagram: ""
+  instagram:
 - id: 152
   url: "bahrain"
   Teamname: "Bahrain"
   shortname: "Mamlakat al-Bahrayn"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Manama, Bahrain"
   frcteam: "Creativity Private School"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-bahrain"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/IMG_3399-e1499876770745.jpg?fit=1500%2C1125"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Alawadhi, Salman\", 0], [\"Alhamad, Yusuf\", 0]]"
   countrycode: "BH"
-  instagram: ""
+  instagram:
 - id: 153
   url: "bahamas"
   Teamname: "Bahamas"
   shortname: "Commonwealth of The Bahamas"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Nassau, The Bahamas"
   frcteam: "Saint Augustine's College"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-bahamas"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/05/IMG_6750.jpg?fit=1500%2C1000"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Nurse, Jared\", 0], [\"Strachan, Nia\", 1], [\"Goncalves, Mateus\", 0], [\"Wright, Frankiesha\", 1], [\"Taylor, Perdawn\", 0]]"
   countrycode: "BS"
-  instagram: ""
+  instagram:
 - id: 154
   url: "azerbaijan"
   Teamname: "Azerbaijan"
   shortname: "Az&#601;rbaycan Respublik"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Baku, Azerbaijan"
   frcteam: "Istak Lyceum International School Robotics Team"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-azerbaijan"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/05/IMG_5302.jpg?fit=1500%2C1000"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Aliyev, Agil\", 0], [\"Hagverdiyev, Malik\", 0], [\"Gurbanli, Omar\", 0] [\"Lyatifov, Ginyat\", 0], [\"Imranov, Aydin\", 0]]"
   countrycode: "AZ"
-  instagram: ""
+  instagram:
 - id: 155
   url: "austria"
   Teamname: "Austria"
   shortname: "Republik Ã–sterreich"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Weiz, Austria"
   frcteam: "HTL Weiz"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-austria"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/01/IMG_5357-e1497719421752.jpg?fit=1500%2C1320"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\" , Jeremia\", 0], [\" , Jakob\", 0], [\" , Wolfgang\", 0]"
   countrycode: "AT"
-  instagram: ""
+  instagram:
 - id: 156
   url: "australia"
   Teamname: "Australia"
   shortname: "Commonwealth of Australia"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Brisbane, Australia"
   frcteam: "FTC & FRC 6063 QLA Pineapples"
   website: "https://www.gracerobotics.org/"
   fgprofile: "http://first.global/nations/team-australia"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/IMG_4524-e1496405327146.jpg?fit=1500%2C1125"
   robotexperience: 2
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "AU"
-  instagram: ""
+  instagram:
 - id: 157
   url: "armenia"
   Teamname: "Armenia"
   shortname: "Hayastani Hanrapetut’yun"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Yerevan, Armenia"
   frcteam: "Tumo Robotics Team"
   website: "https://www.tumo.org/"
@@ -2980,7 +2980,7 @@
   qualification: "Selected from after-school program"
   teammembers: "[[\"Sahakyan, Tigran\", 0], [\"Kirakosyan, Davit\", 0], [\"Ter-Minasyan, Maria\", 1], [\"Madancyan, Aram\", 0], [\"Balagyozyan, Levon\", 0], [\"Tarumyan, Lilit\", 1], [\"Hovhannisyan, Davit\", 0], [\"Tarumyan, Ashot\", 0]]\r\n"
   countrycode: "AM"
-  instagram: ""
+  instagram:
 - id: 158
   url: "argentina"
   Teamname: "Argentina"
@@ -2996,48 +2996,48 @@
   youtube: "channel/UCF11ICIw2RKkmxSbWhYCQSg"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2017/04/team.jpg?fit=1280%2C960"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Bruno, Mateo\", 0], [\"d'Ambrosio, Martin\", 0], [\"Chayer, Ivan\", 0], [\"Bautista Liset, Juan\", 0], [\"Diaz Stellato, Lucas\", 0], [\"Moltedo Felipe Albertazzi, Pedro\", 0]]"
   countrycode: "AR"
-  instagram: ""
+  instagram:
 - id: 159
   url: "algeria"
   Teamname: "Algeria"
-  shortname: ""
+  shortname:
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Algiers, Algeria"
   frcteam: "Algiers STEAM Resource and Training Center"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-algeria"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2017/01/IMG_8355-e1498755177722.jpg?fit=1500%2C1000"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\" , Rafik\", 0], [\" , Nabil\", 0], [\" , Sarah\", 1], [\" , Cyrine\", 1], [\" , Anas\", 1], [\" , Soumeya\", 1], [\" , Yousra\", 1], [\" , Amine\", 0]]\r\n"
   countrycode: "DZ"
-  instagram: ""
+  instagram:
 - id: 160
   url: "albania"
   Teamname: "Albania"
   shortname: "Republika e ShqipÃ«risÃ«"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Tirana, Albania"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "http://first.global/nations/team-albania"
   facebook: "first"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/04/IMG-20170701-WA0020.jpg?fit=1280%2C739"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Grori, Julian\", 0], [\"Berberi, Marko\", 0], [\"Biba, Donaldo\", 0], [\"Shkembi, John\", 0]]"
   countrycode: "AL"
-  instagram: ""
+  instagram:
 - id: 161
   url: "afghanistan"
   Teamname: "Afghanistan"
@@ -3045,100 +3045,100 @@
   year: 2017
   robotname: "Better Idea of Afghan Girls"
   adress: "Herat"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "https://first.global/2017-nations/team-afghanistan/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/01/IMG_20170709_124002.jpg?fit=1280%2C878"
   robotexperience: 1
   qualification: "Selected in application process (150 applicants)"
   teammembers: "[[\"Roshan, Kawsar\", 1], [\"Azizi, Lida\", 1], [\"Qaderyan, Fatemah\", 1], [\"Noori, Rodaba\", 1]]"
   countrycode: "AF"
-  instagram: ""
+  instagram:
 - id: 164
   url: "indonesia"
   Teamname: "Indonesia"
   shortname: "Republik Indonesia"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Depok, Indonesia"
   frcteam: "Team R2045 represented by Madrasah International TechnoNatura"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-indonesia-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/02/Team-Indonesia-2018.jpg?w=1280&ssl=1"
   robotexperience: 2
   qualification: "Returning Team"
   teammembers: "[[\"Proton, Iman\", 0], [\"Lavina, Sandra\", 1], [\"Hafara Prianto, Krisna\", 0], [\"Rastrapatiji, Rehayl\", 0], [\"Reynara, Ezra\", 0]]"
   countrycode: "ID"
-  instagram: ""
+  instagram:
 - id: 165
   url: "saint-kitts-and-nevis"
   Teamname: "Saint Kitts and Nevis"
   shortname: "Federation of Saint Christopher and Nevis"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Basseterre, St. Kitts & Nevis"
   frcteam: "CFBC TVEMS Information Technology School"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-saint-kitts-and-nevis-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/02/Saint-Kitts-and-Nevis-2018.jpg?w=1200&ssl=1"
   robotexperience: 2
   qualification: "Returning Team"
   teammembers: "[[\"Lapsley, Jervik\", 0], [\"Henry, Jermellia\", 1], [\"Shaw, Zhavier\", 0]]"
   countrycode: "KN"
-  instagram: ""
+  instagram:
 - id: 166
   url: "benin"
   Teamname: "Benin"
   shortname: "RÃ©publique du BÃ©nin"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-benin-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/02/Benin-2018.jpg?w=1000&ssl=1"
   robotexperience: 1
-  qualification: ""
+  qualification:
   teammembers: "[[\"Afangnon, Simon Edouardo\", 0], [\"Tohoungnan, Claudel\", 0], [\"Akoutey, Armelle Deo-Gratias\", 1], [\"Chabi, Kevin\", 0], [\"Djeguede, Marie-Ange\", 1], [\"Okoun Akomou, Angelique\", 1], [\"Bossa, Daniella\", 1]]"
   countrycode: "BJ"
-  instagram: ""
+  instagram:
 - id: 167
   url: "ethiopia"
   Teamname: "Ethiopia"
   shortname: "ye'Itiyoppya Federalawi Demokirasiyawi Ripebilik"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Adama, Ethiopia"
   frcteam: "FIRST Global Ethiopia"
   website: "http://www.firstroboticsethiopia.org/"
   fgprofile: "https://first.global/2018-nations/team-ethiopia-2018/"
   facebook: "https://www.facebook.com/firstroboticsethiopia/"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/03/Team-Ethiopia-2018.jpg?w=1000&ssl=1"
   robotexperience: 2
   qualification: "Selection process with interviews; returning team"
   teammembers: "[[\"Elias\", 0], [\"Robi\", 1], [\"Dawit\", 0]]"
   countrycode: "ET"
-  instagram: ""
+  instagram:
 - id: 168
   url: "tunisia"
   Teamname: "Tunisia"
   shortname: "al-Jumhuriyah at-Tunisiyah"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Sfax, Tunisia"
   frcteam: "FIRST Skills Club (later VEX)"
   website: "https://firstskills.club/"
@@ -3151,20 +3151,20 @@
   qualification: "Returning team"
   teammembers: "[[\"\", 0], [\"\", 1], [\"\", 1], [\"\", 1], [\"\", 1]]"
   countrycode: "TN"
-  instagram: ""
+  instagram:
 - id: 169
   url: "germany"
   Teamname: "Germany"
   shortname: "Bundesrepublik Deutschland"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Stuttgart, Germany"
   frcteam: "Königin-Katharina-Stift (FTC Team)"
   website: "http://blog.firstglobalgermany.de/"
   fgprofile: "https://first.global/2018-nations/team-germany-2018/"
-  facebook: ""
+  facebook:
   twitter: "Germany_FGC2018"
-  youtube: ""
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/03/Team-Germany-2018.jpg?w=1422&ssl=1"
   robotexperience: 2
   qualification: "Returning team"
@@ -3176,17 +3176,17 @@
   Teamname: "Mexico"
   shortname: "Estados Unidos Mexicanos"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Chihuahua & Mexico City"
   frcteam: "Chihuahua-based FTC Team ; Mexico City-based FRC Team"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-mexico-2018/"
   facebook: "teammexicoFGC2018"
   twitter: "TeamMexicoFGC"
-  youtube: ""
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2017/12/Team-Mexico-2018.jpg?w=1200&ssl=1"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Garcia, Jorge\", 0], [\"Garcia, Renee\", 1], [\"Berdeja, Angel\", 0], [\"Sanchez, Herman\", 0], [\"Garcia, Santiago\", 0], [\"Montano, Diego\", 0], [\"Sosa, Frida\", 1]]"
   countrycode: "MX"
   instagram: "teammexicoFGC"
@@ -3195,71 +3195,71 @@
   Teamname: "Bosnia and Herzegovina"
   shortname: "Bosna i Hercegovina"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Mostar, Bosnia & Herzegovina"
   frcteam: "Druga gimnazija Mostar"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-bosnia-and-herzegovina-2018/"
   facebook: "bhrobotic"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/04/Team-Bosnia-and-Herzegoviba-2018.jpg?w=640&ssl=1"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Maric, Irfan\", 0], [\"Camo, Nadis\", 0], [\"Maric, Lejla\", 1], [\"Mahinic, Emela\", 1], [\"Mulac, Umihana\", 1], [\"Gadara, Dzenita\", 1]]"
   countrycode: "BA"
-  instagram: ""
+  instagram:
 - id: 172
   url: "trinidad-and-tobago"
   Teamname: "Trinidad and Tobago"
   shortname: "Republic of Trinidad and Tobago"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Chaguanas, Trinidad & Tobago"
   frcteam: "Presentation College Chaguanas"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-trinidad-and-tobago-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/04/Team-Trinidad-and-Tobago-2018.jpeg?w=1280&ssl=1"
   robotexperience: 2
   qualification: "Returning team"
   teammembers: "[[\"Gonzalez, Josef\", 0], [\"Baboolal, Raydon\", 0], [\"Marajh, Avidesh\", 0]]"
   countrycode: "TT"
-  instagram: ""
+  instagram:
 - id: 173
   url: "iceland"
   Teamname: "Iceland"
   shortname: "Island"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Reykjavik, Iceland"
   frcteam: "Taekniskolinn Reykjavik"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-iceland-2018/"
   facebook: "FGGlobalIceland"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/04/Team-Iceland-2018.jpg?w=1200&ssl=1"
   robotexperience: 2
   qualification: "Returning team"
   teammembers: "[[\"Sveinsdottir, Dyrleif Birna\", 1] [\"Unnthorsson, Kormakur Atli, 0], [\"Torfason, Flosi\", 0]]"
   countrycode: "IS"
-  instagram: ""
+  instagram:
 - id: 174
   url: "japan"
   Teamname: "Japan"
   shortname: "Nihon-koku"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Tokyo, Japan"
   frcteam: "Karakuri (Tokyo Ebisu School) FLL"
-  website: ""
+  website:
   fgprofile: "http://first.global/nations/team-japan/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Team-Japan-2018.jpg?w=1100&ssl=1"
   robotexperience: 2
   qualification: "Selected open tryouts organized by FIRST Japan"
@@ -3271,93 +3271,93 @@
   Teamname: "Uruguay"
   shortname: "Republica Oriental del Uruguay"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Mercedes, Uruguay"
   frcteam: "Los Vikingos (FLL)"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-uruguay-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/04/Team-Uruguay-2018.jpeg?w=1600&ssl=1"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Chumillo, Yaco\", 0], [\"Camesasca, Santiago\", 0], [\"Garcia, Ignacio\", 0], [\"Mar, Sahiara\", 1], [\"Camesasca, Bethlehem\", 1]]"
   countrycode: "UY"
-  instagram: ""
+  instagram:
 - id: 176
   url: "albania"
   Teamname: "Albania"
   shortname: "Republika e ShqipÃ«risÃ«"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Tirana, Albania"
   frcteam: "sponsored by American Corner Tirana"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-albania-2018/"
   facebook: "FIRST.global.albania"
-  twitter: ""
-  youtube: ""
-  images: ""
+  twitter:
+  youtube:
+  images:
   robotexperience: 2
   qualification: "Returning program"
   teammembers: "[[\"Schneider, Julianna\", 1], [\"Leka, Kristi\", 0], [\"Rrozhani, Dea\", 1], [\"Cornacchia, Gianmarco\", 0]]"
   countrycode: "AL"
-  instagram: ""
+  instagram:
 - id: 177
   url: "slovenia"
   Teamname: "Slovenia"
   shortname: "Republika Slovenija"
   year: 2017
-  robotname: ""
+  robotname:
   adress: "Ljubljana, Slovenia"
-  frcteam: ""
+  frcteam:
   website: "firstglobal.si"
   fgprofile: "http://first.global/nations/team-slovenia"
   facebook: "FGcSlo"
-  twitter: ""
+  twitter:
   youtube: "UCL9199RCjSwq2iwIhVIyAXQ"
-  images: ""
+  images:
   robotexperience: 2
   qualification: "Returning team"
   teammembers: "[[Macek, Luka\", 0], [\"Krasevec, David\", 0], [\"Šajn, Matej\" ,0], [\"Morozov, Andrei\", 0], [\"Kit, Kristina\", 1], [\"Erzin, Lara\", 1], [\"Kuduzovic, Nail\", 0], [\"Mozina, Jernej Macarol\", 0], [\"Breznik, Mark\", 0], [\"Zovec, Matevz\", 0]]"
   countrycode: "SI"
-  instagram: ""
+  instagram:
 - id: 178
   url: "south-africa"
   Teamname: "South Africa"
   shortname: "Republic of South Africa"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Nationwide, South Africa"
   frcteam: "The SpringBots"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-south-africa-2018/"
   facebook: "jamer.reddy.7"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/04/South-Africa-2018.jpeg?w=1078&ssl=1"
   robotexperience: 2
   qualification: "Returning team"
   teammembers: "[[\"Matodzi, Dzanga\", 1], [\"Phumudzo, Masana\", 1], [\"Mokwana, Tshenolo\", 0], [\"Moagi, Barbara\", 1], [\"Reddy, Mikhaeel\", 0]]"
   countrycode: "ZA"
-  instagram: ""
+  instagram:
 - id: 179
   url: "india"
   Teamname: "India"
   shortname: "Republic of India"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Mumbai, India"
   frcteam: "including St. Mary's Junior College, FTC and FRC teams"
   website: "firstglobalindia.com"
   fgprofile: "https://first.global/2018-nations/team-india-2018/"
-  facebook: ""
-  twitter: ""
+  facebook:
+  twitter:
   youtube: "UCwuFBjVAdccEHVlbbRWzlWQ"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/04/Team-India-2018.jpg?w=1024&ssl=1"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Varma, Vaastav\", 0], [\"Shome, Vivek\", 0], [\"Sud, Rayushka\", 1], [\"Premchandra. Prerna\", 1], [\"Castellino, Anika\", 1]]  "
   countrycode: "IN"
   instagram: "firstglobalindia"
@@ -3366,36 +3366,36 @@
   Teamname: "Myanmar"
   shortname: "Pyidaunzu Thanmada Myama Nainngandaw"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Yangon, Myanmar"
   frcteam: "University of Information Technology & Yangon Technology University"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-myanmar-2018/"
   facebook: "mmfirstglobal"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/04/Team-Myanmar-2018.jpg?w=1200&ssl=1"
   robotexperience: 2
   qualification: "Returning team"
   teammembers: "[[\"Pan Ingyin\", 1], [\"Phyo Pyae Moe Aung\", 0], [\"Thuta Zaw\", 0], [\"Thiri Wah Wah Thein\", 1], [\"Tin Myint Kyaw\", 0]]"
   countrycode: "MM"
-  instagram: ""
+  instagram:
 - id: 181
   url: "syria"
   Teamname: "Syria"
   shortname: "al-Jumhuriyah al-'Arabiyah as-Suriyah"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Damascus, Syria"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-syria-2018/"
   facebook: "TeamSyriaFGC"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/04/Team-Syria-2018.jpg?w=1096&ssl=1"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Hafez\", 0], [\"Hafez\", 0], [\"Sidra\", 1], [\"Obai\", 0]]"
   countrycode: "SY"
   instagram: "fgc_teamsyria"
@@ -3404,71 +3404,71 @@
   Teamname: "Burkina Faso"
   shortname: "Burkina Faso"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Bobo-Dioulasso, Burkina Faso"
   frcteam: "Universite Aube Nouvelle"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-burkina-faso-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/07/Burkina-Faso-2018.jpg?w=1035&ssl=1"
   robotexperience: 2
   qualification: "Returning team"
   teammembers: "[[\"\", 0], [\"\", 0], [\"\", 0]]"
   countrycode: "BF"
-  instagram: ""
+  instagram:
 - id: 183
   url: "morocco"
   Teamname: "Morocco"
   shortname: "al-Mamlakah al-Maghribiyah"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Rabat, Morocco"
   frcteam: "Club SI Alaymoun from Lycee Allaymoune"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-morocco-2018/"
   facebook: "clubsi.alaymoun.1"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/05/Team-Morocco-2018.jpg?w=800&ssl=1"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Chaima\", 1], [\"Imane, 1\"], [\"Intissar\", 1], [\"Nour Elhouda\", 1], [\"Amine\", 0]]"
   countrycode: "MA"
-  instagram: ""
+  instagram:
 - id: 184
   url: "sri-lanka"
   Teamname: "Sri Lanka"
   shortname: "Democratic Socialist Republic of Sri Lanka"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Nationwide, Sri Lanka"
   frcteam: "Elizabeth Moir International School, St John’s College and Presidents College"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-sri-lanka-2018/"
   facebook: "Team-Sri-Lanka-FIRST-Global-2018-243443799549717"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/05/Team-Sri-Lanka-2018.jpg?w=1114&ssl=1"
   robotexperience: 2
   qualification: "Returning team"
   teammembers: "[[\", Cong\", 0], [\", Daniel\", 0], [\", Felix\", 1], [\", Syanthan\", 1]]"
   countrycode: "LK"
-  instagram: ""
+  instagram:
 - id: 185
   url: "iran"
   Teamname: "Iran"
   shortname: "Jomhuri-ye Eslami-ye Iran"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Esfahan, Iran"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-iran-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/05/Iran-2018.jpg?w=1100&ssl=1"
   robotexperience: 2
   qualification: "Returning team"
@@ -3480,17 +3480,17 @@
   Teamname: "Paraguay"
   shortname: "Republica del Paraguay"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Asuncion, Paraguay"
   frcteam: "CEL Robotics Makers from Centro Educativos Los Laureles School / FRC 6982 Team CEL"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-paraguay-2018/"
   facebook: "teamparaguayfirst"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/05/Team-Paraguay-2018.jpg?w=1067&ssl=1"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Molinas, Alejandro\", 0], [\"Jara, Ethan\", 0], [\"Yakusic, Lucas\", 0], [\"Florentin, Alejandro\", 0], [\"Alborno, Mauricio\", 0]]"
   countrycode: "PY"
   instagram: "teamcelfirst"
@@ -3499,442 +3499,442 @@
   Teamname: "Argentina"
   shortname: "RepÃºblica Argentina"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Buenos Aires, Argentina"
   frcteam: "Educabot (sponsor)"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-argentina-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/04/Team-Argentina-2018.jpg?w=720&ssl=1"
   robotexperience: 2
   qualification: "Returning team"
-  teammembers: ""
+  teammembers:
   countrycode: "AR"
-  instagram: ""
+  instagram:
 - id: 188
   url: "cuba"
   Teamname: "Cuba"
   shortname: "Republica de Cuba"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Matanzas, Cuba"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-cuba-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/05/Team-Cuba-2018.jpg?w=800&ssl=1"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\", Jonathan\", 0], [\", Jose Armando\", 0], [\", Juan Manuel\", 0], [\", Elvis\", 0]]"
   countrycode: "CU"
-  instagram: ""
+  instagram:
 - id: 189
   url: "venezuela"
   Teamname: "Venezuela"
   shortname: "Republica Bolivariana de Venezuela"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Maracaibo, Venezuela"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-venezuela-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/05/Team-Venezuela-2018.jpg?w=1168&ssl=1"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "VE"
-  instagram: ""
+  instagram:
 - id: 190
   url: "turkmenistan"
   Teamname: "Turkmenistan"
   shortname: "Turkmenistan"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-turkmenistan-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
-  images: ""
+  facebook:
+  twitter:
+  youtube:
+  images:
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Hallyyev, Didar\", 0], [\"Rejepov, Kuvvat\", 0], [\"Matiyev, Meylis\", 0], [\"Orazov, Gochnazar\", 0], [\"Akyyev, Ahmet\", 0], [\"Amanov, Ahmet\", 0]]"
   countrycode: "TM"
-  instagram: ""
+  instagram:
 - id: 191
   url: "moldova"
   Teamname: "Moldova"
   shortname: "Republica Moldova"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-moldova-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/05/Team-Moldova-2018.jpg?w=1066&ssl=1"
   robotexperience: 2
   qualification: "FLL Moldova Champions"
-  teammembers: ""
+  teammembers:
   countrycode: "MD"
-  instagram: ""
+  instagram:
 - id: 192
   url: "armenia"
   Teamname: "Armenia"
   shortname: "Hayastani Hanrapetut’yun"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-armenia-2018/"
   facebook: "First-Global-Armenia-228409674600158"
-  twitter: ""
-  youtube: ""
-  images: ""
+  twitter:
+  youtube:
+  images:
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "AM"
-  instagram: ""
+  instagram:
 - id: 193
   url: "belarus"
   Teamname: "Belarus"
   shortname: "&#1056;&#1101;&#1089;&#1087;&#1091;&#1073;&#1083;&#1110;&#1082;&#1072; &#1041;&#1077;&#1083;&#1072;&#1088;&#1091;&#1089;&#1100"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Minsk, Belarus"
   frcteam: "ITeen Academy"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-belarus-2018/"
   facebook: "Robo4U"
-  twitter: ""
+  twitter:
   youtube: "channel/UCwOY0DAFbnP-vWXGLrUT6_A"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/05/%D0%A2EAM-BELARUS-FIRST-GLOBAL.jpg?w=1200&ssl=1"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Hovor, Eugen\", 1], [\"Sanko, Vladimir\", 0], [\"Klimovich, Maxim\", 0], [\"Kulsha, Aliaksandr\", 0], [\"Shipileuski, Maxim\", 0]]"
   countrycode: "BY"
-  instagram: ""
+  instagram:
 - id: 194
   url: "africa"
   Teamname: "Team Africa"
-  shortname: ""
+  shortname:
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-africa-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
-  images: ""
+  facebook:
+  twitter:
+  youtube:
+  images:
   robotexperience: 1
-  qualification: ""
-  teammembers: ""
-  countrycode: ""
-  instagram: ""
+  qualification:
+  teammembers:
+  countrycode:
+  instagram:
 - id: 195
   url: "kyrgyzstan"
   Teamname: "Kyrgyzstan"
   shortname: "Kyrgyz Respublikasy"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Talas"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-kyrgyzstan-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/05/Team-Kyrgyzstan-2018.jpeg?w=750&ssl=1"
   robotexperience: 2
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "KG"
-  instagram: ""
+  instagram:
 - id: 196
   url: "cameroon"
   Teamname: "Cameroon"
   shortname: "Republic of Cameroon | RÃ©publique du Cameroun"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "YaoundÃ©, Cameroo"
   frcteam: "Team Logibots from Tassah Academy"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-cameroon-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/05/Team-Cameroon_2018.jpg?w=960&ssl=1"
   robotexperience: 2
   qualification: "Selected among STEM Club"
-  teammembers: ""
+  teammembers:
   countrycode: "CM"
-  instagram: ""
+  instagram:
 - id: 197
   url: "angola"
   Teamname: "Angola"
   shortname: "Angola"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Luanda"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-angola-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/04/Team-Angola-2018.jpg?w=1200&ssl=1"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Francisco Quiombo, Aderito\", 0], [\"Augusto, Jacinto\", 0], [\"Zeca, Joel\", 0], [\"Cacombe, Abigail\", 0]]"
   countrycode: "AO"
-  instagram: ""
+  instagram:
 - id: 198
   url: "madagascar"
   Teamname: "Madagascar"
   shortname: "Republique de Madagascar"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-madagascar-2018/"
   facebook: "Team-Madagascar-First-Global-2018-153147978709530"
-  twitter: ""
-  youtube: ""
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/05/Team-Madagascar-2018.jpg?w=1197&ssl=1"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "MG"
-  instagram: ""
+  instagram:
 - id: 199
   url: "suriname"
   Teamname: "Suriname"
   shortname: "Republiek Suriname"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-suriname-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/05/Team-Suriname-2018.jpg?w=800&ssl=1"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "SR"
-  instagram: ""
+  instagram:
 - id: 200
   url: "niger"
   Teamname: "Niger"
   shortname: "Republique du Niger"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Niamey, Niger"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-niger-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/05/Team_Niger_2018.jpg?w=1289&ssl=1"
   robotexperience: 2
-  qualification: ""
+  qualification:
   teammembers: "[[\"Salou, Moussa Bouba\", 0], [\"Abdou, Aida Ibrahima\", 1], [\"Garba Chipkao, Mahamadou Roufaï\", 0], [\"Hamadou, Daouda\", 0], [\"Fatoumata Bako, Seyni\", 0]]"
   countrycode: "NE"
-  instagram: ""
+  instagram:
 - id: 201
   url: "botswana"
   Teamname: "Botswana"
   shortname: "Republic of Botswana"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Ramotswa, Botswana"
   frcteam: "Kagiso Senior Secondary School"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-botswana-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/05/Team-Botswana-2018.jpg?w=1080&ssl=1"
   robotexperience: 0
   qualification: "Selected on Merit in School"
-  teammembers: ""
+  teammembers:
   countrycode: "BW"
-  instagram: ""
+  instagram:
 - id: 202
   url: "burundi"
   Teamname: "Burundi"
-  shortname: ""
+  shortname:
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-burundi-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/05/Team-Burundi-2018.jpg?w=1200&ssl=1"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "BI"
-  instagram: ""
+  instagram:
 - id: 203
   url: "usa"
   Teamname: "United States"
   shortname: "United States of America"
   year: 2018
-  robotname: ""
-  adress: ""
+  robotname:
+  adress:
   frcteam: "FIRST® Tech Challenge (FTC) team 9794"
-  website: ""
+  website:
   fgprofile: "https://first.global/2018-nations/team-united-states-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/05/Team-USA-2018.jpg?w=960&ssl=1"
   robotexperience: 2
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "US"
-  instagram: ""
+  instagram:
 - id: 204
   url: "europe"
   Teamname: "Team Europe"
-  shortname: ""
+  shortname:
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Girona"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-europe-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/05/Team-Europe-2018.png?w=599&ssl=1"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
-  countrycode: ""
-  instagram: ""
+  qualification:
+  teammembers:
+  countrycode:
+  instagram:
 - id: 205
   url: "serbia"
   Teamname: "Serbia"
   shortname: "Republika Srbija"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-serbia-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/05/Serbia-2018.jpg?w=960&ssl=1"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "RS"
-  instagram: ""
+  instagram:
 - id: 206
   url: "lesotho"
   Teamname: "Lesotho"
   shortname: "Kingdom of Lesotho"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-lesotho-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/05/Team-Lesotho-2018.jpg?w=1200&ssl=1"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "LS"
-  instagram: ""
+  instagram:
 - id: 207
   url: "libya"
   Teamname: "Libya"
   shortname: "Dawlat Libya"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-libya-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/05/Team-Libya-2018.jpg?w=1067&ssl=1"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "LY"
-  instagram: ""
+  instagram:
 - id: 208
   url: "chile"
   Teamname: "Chile"
   shortname: "RepÃºblica de Chile"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Santiago de Chile"
-  frcteam: ""
-  website: ""
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-chile-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/05/Team-Chile-2018.jpg?w=1222&ssl=1"
   robotexperience: 2
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "CL"
-  instagram: ""
+  instagram:
 - id: 209
   url: "south-america"
   Teamname: "Team South America"
-  shortname: ""
+  shortname:
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-south-america-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/05/Team-South-America-2018.jpg?w=1065&ssl=1"
   robotexperience: 0
-  qualification: ""
+  qualification:
   teammembers: "[[\"Forero, Danna\", 1], [\"Ruiz, Ana Maria\", 1], [\"Moreno, Valentina\", 1]]"
-  countrycode: ""
-  instagram: ""
+  countrycode:
+  instagram:
 - id: 210
   url: "poland"
   Teamname: "Poland"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-poland-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Poland-2018.jpg?fit=1200%2C675&ssl=1"
@@ -3943,7 +3943,7 @@
 - id: 211
   url: "spain"
   Teamname: "Spain"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-spain-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Team-Spain-2018.jpg?fit=832%2C800&ssl=1"
@@ -3952,7 +3952,7 @@
 - id: 212
   url: "yemen"
   Teamname: "Yemen"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-yemen-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Team-Yemen-2018.jpg?fit=990%2C800&ssl=1"
@@ -3961,7 +3961,7 @@
 - id: 213
   url: "costa-rica"
   Teamname: "Costa Rica"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-costa-rica-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Team-Costa-Rica-2018.jpg?fit=1024%2C768&ssl=1"
@@ -3970,7 +3970,7 @@
 - id: 214
   url: "grenada"
   Teamname: "Grenada"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-grenada-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Grenada-2018.jpg?fit=1200%2C800&ssl=1"
@@ -3979,7 +3979,7 @@
 - id: 215
   url: "sierra-leone"
   Teamname: "Sierra Leone"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-sierra-leone-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Team-Sierra-Leone-2018.jpg?fit=1052%2C647&ssl=1"
@@ -3996,7 +3996,7 @@
 - id: 217
   url: "denmark"
   Teamname: "Denmark"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-denmark-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Denmark-2018.jpg?fit=1038%2C800&ssl=1"
@@ -4005,7 +4005,7 @@
 - id: 218
   url: "gambia"
   Teamname: "Gambia"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-gambia-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Team-Gambia-2018.jpg?fit=1067%2C800&ssl=1"
@@ -4022,7 +4022,7 @@
 - id: 220
   url: "finland"
   Teamname: "Finland"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-finland-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Team_Finland_2018.jpg?fit=1202%2C800&ssl=1"
@@ -4031,7 +4031,7 @@
 - id: 221
   url: "tanzania"
   Teamname: "Tanzania"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-tanzania-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Tanzania-2018.jpg?fit=1050%2C700&ssl=1"
@@ -4040,7 +4040,7 @@
 - id: 222
   url: "malaysia"
   Teamname: "Malaysia"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-malaysia-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Malaysia-2018.png?fit=896%2C630&ssl=1"
@@ -4049,7 +4049,7 @@
 - id: 223
   url: "bolivia"
   Teamname: "Bolivia"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-bolivia-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Bolivia-2018.jpeg?fit=1067%2C800&ssl=1"
@@ -4058,7 +4058,7 @@
 - id: 224
   url: "china"
   Teamname: "China"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-china-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Team-China-2018.jpg?fit=1067%2C800&ssl=1"
@@ -4067,7 +4067,7 @@
 - id: 225
   url: "kazakhstan"
   Teamname: "Kazakhstan"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-kazakhstan-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Kazakhstan-2018.jpg?fit=1100%2C712&ssl=1"
@@ -4076,7 +4076,7 @@
 - id: 226
   url: "seychelles"
   Teamname: "Seychelles"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-seychelles-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Team-Seychelles-2018.jpg?fit=1204%2C800&ssl=1"
@@ -4085,7 +4085,7 @@
 - id: 227
   url: "brazil"
   Teamname: "Brazil"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-brazil-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Brazil-2018.jpg?fit=1067%2C800&ssl=1"
@@ -4094,7 +4094,7 @@
 - id: 228
   url: "cyprus"
   Teamname: "Cyprus"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-cyprus-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Cyprus-2018.jpg?fit=1067%2C800&ssl=1"
@@ -4103,7 +4103,7 @@
 - id: 229
   url: "romania"
   Teamname: "Romania"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-romania-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Romania-2018.jpg?fit=1200%2C683&ssl=1"
@@ -4112,7 +4112,7 @@
 - id: 231
   url: "israel"
   Teamname: "Israel"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-israel-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Team-Israel-2018-1.jpeg?fit=1067%2C800&ssl=1"
@@ -4121,7 +4121,7 @@
 - id: 232
   url: "guatemala"
   Teamname: "Guatemala"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-guatemala-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Guatemala.jpg?fit=1048%2C811&ssl=1"
@@ -4130,7 +4130,7 @@
 - id: 233
   url: "czech-republic"
   Teamname: "Czech Republic"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-czech-republic-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Team-Czech-Republic-2018.png?fit=897%2C675&ssl=1"
@@ -4143,11 +4143,11 @@
   fgprofile: "https://first.global/2018-nations/team-oceania-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Team-Oceania-unboxing.jpeg?fit=480%2C640&ssl=1"
   robotexperience: 0
-  countrycode: ""
+  countrycode:
 - id: 235
   url: "kenya"
   Teamname: "Kenya"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-kenya-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Kenya-unboxing.jpeg?fit=1159%2C529&ssl=1"
@@ -4156,7 +4156,7 @@
 - id: 236
   url: "latvia"
   Teamname: "Latvia"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-latvia-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Latvia-2018.jpg?fit=1200%2C800&ssl=1"
@@ -4165,7 +4165,7 @@
 - id: 237
   url: "ukraine"
   Teamname: "Ukraine"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-ukraine-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Ukraine-2018.jpg?fit=1154%2C800&ssl=1"
@@ -4190,7 +4190,7 @@
 - id: 240
   url: "peru"
   Teamname: "Peru"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-peru-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Peru-2018.jpg?fit=1200%2C800&ssl=1"
@@ -4199,7 +4199,7 @@
 - id: 241
   url: "georgia"
   Teamname: "Georgia"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-georgia-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Georgia-2018.jpg?fit=1157%2C800&ssl=1"
@@ -4208,7 +4208,7 @@
 - id: 242
   url: "slovakia"
   Teamname: "Slovakia"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-slovakia-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Team-Slovakia-2018.jpg?fit=1067%2C800&ssl=1"
@@ -4217,7 +4217,7 @@
 - id: 243
   url: "vanuatu"
   Teamname: "Vanuatu"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-vanuatu-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/SMART-Sistas-Vanuatu-2018.jpg?fit=1200%2C800&ssl=1"
@@ -4226,7 +4226,7 @@
 - id: 244
   url: "uk"
   Teamname: "United Kingdom"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-united-kingdom-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/05/Team-United-Kingdom-2018.png?fit=1334%2C750&ssl=1"
@@ -4235,7 +4235,7 @@
 - id: 245
   url: "portugal"
   Teamname: "Portugal"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-portugal-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Portugal-2018.jpg?fit=1214%2C800&ssl=1"
@@ -4244,7 +4244,7 @@
 - id: 246
   url: "nepal"
   Teamname: "Nepal"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-nepal-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Nepal-2018.jpg?fit=1067%2C800&ssl=1"
@@ -4253,7 +4253,7 @@
 - id: 247
   url: "croatia"
   Teamname: "Croatia"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-croatia-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Team-Croatia-2018.jpeg?fit=1200%2C800&ssl=1"
@@ -4262,7 +4262,7 @@
 - id: 248
   url: "south-sudan"
   Teamname: "South Sudan"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-south-sudan-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/05/South-Sudan.jpg?fit=1067%2C800&ssl=1"
@@ -4271,7 +4271,7 @@
 - id: 249
   url: "philippines"
   Teamname: "Philippines"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-philippines-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Philippines-2018.jpg?fit=1201%2C700&ssl=1"
@@ -4280,7 +4280,7 @@
 - id: 250
   url: "colombia"
   Teamname: "Colombia"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-colombia-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Team-Colombia-2018.jpg?fit=1010%2C800&ssl=1"
@@ -4289,7 +4289,7 @@
 - id: 251
   url: "dominica"
   Teamname: "Dominica"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-dominica-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Dominica-2018.jpg?fit=1115%2C747&ssl=1"
@@ -4298,7 +4298,7 @@
 - id: 252
   url: "solomon-islands"
   Teamname: "Solomon Islands"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-solomon-islands-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Solomon-Islands-2018.jpg?fit=1146%2C522&ssl=1"
@@ -4309,20 +4309,20 @@
   Teamname: "Estonia"
   shortname: "Eesti Vabariik"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-estonia-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
-  images: ""
+  facebook:
+  twitter:
+  youtube:
+  images:
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "EE"
-  instagram: ""
+  instagram:
 - id: 264
   url: "fiji"
   Teamname: "Fiji"
@@ -4334,7 +4334,7 @@
 - id: 254
   url: "egypt"
   Teamname: "Egypt"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-egypt-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/Team-Egypt.jpeg?fit=577%2C800&ssl=1"
@@ -4343,7 +4343,7 @@
 - id: 255
   url: "republic-of-korea"
   Teamname: "South Korea"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-south-korea-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/06/South-Korea.jpg?fit=1200%2C675&ssl=1"
@@ -4352,7 +4352,7 @@
 - id: 256
   url: "nicaragua"
   Teamname: "Nicaragua"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-nicaragua-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Team-Nicaragua-2018.jpg?fit=1067%2C800&ssl=1"
@@ -4361,7 +4361,7 @@
 - id: 257
   url: "canada"
   Teamname: "Canada"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-canada-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/05/Team-Canada-2018.jpg?fit=800%2C856&ssl=1"
@@ -4370,7 +4370,7 @@
 - id: 258
   url: "australia"
   Teamname: "Australia"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-australia-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/05/Team-Australia-2018.png?fit=1324%2C883&ssl=1"
@@ -4379,7 +4379,7 @@
 - id: 259
   url: "hungary"
   Teamname: "Hungary"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-hungary-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/05/Team-Hungary-2018.jpg?fit=800%2C832&ssl=1"
@@ -4388,7 +4388,7 @@
 - id: 260
   url: "jordan"
   Teamname: "Jordan"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-jordan-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/05/Team-Jordan-2018.jpg?fit=1280%2C960&ssl=1"
@@ -4397,7 +4397,7 @@
 - id: 261
   url: "honduras"
   Teamname: "Honduras"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-honduras-2018/"
   images: "https://i1.wp.com/first.global/wp-content/uploads/2018/05/Team-Honduras-2018.jpg?fit=1200%2C800&ssl=1"
@@ -4406,7 +4406,7 @@
 - id: 262
   url: "namibia"
   Teamname: "Namibia"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-namibia-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/05/Team-Namibia-2018.jpg?fit=1000%2C710&ssl=1"
@@ -4639,7 +4639,7 @@
 - id: 295
   url: "algeria"
   Teamname: "Algeria"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-algeria-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Team-Algeria-2018.jpg?fit=1200%2C800&ssl=1"
@@ -4801,7 +4801,7 @@
 - id: 314
   url: "slovenia"
   Teamname: "Slovenia"
-  shortname: ""
+  shortname:
   year: 2018
   fgprofile: "https://first.global/2018-nations/team-slovenia-2018/"
   images: "https://i0.wp.com/first.global/wp-content/uploads/2018/06/Team-Slovenia-2018.jpg?fit=1200%2C800&ssl=1"
@@ -4928,7 +4928,7 @@
   fgprofile: "https://first.global/2018-nations/team-north-america-2018/"
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/06/Team-North-America-2018.jpg?fit=1150%2C863&ssl=1"
   robotexperience: 0
-  countrycode: ""
+  countrycode:
 - id: 330
   url: "chad"
   Teamname: "Chad"
@@ -4989,182 +4989,182 @@
   Teamname: "Pakistan"
   shortname: "Islami Jumhuriyah Pakistan"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-pakistan-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/07/Pakistan-2018.jpg?w=1200&ssl=1"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "PK"
-  instagram: ""
+  instagram:
 - id: 338
   url: "andorra"
   Teamname: "Andorra"
   shortname: "Principat d'Andorra"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-andorra-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
+  facebook:
+  twitter:
+  youtube:
   images: "https://i2.wp.com/first.global/wp-content/uploads/2018/07/Pakistan-2018.jpg?w=1200&ssl=1"
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "AD"
-  instagram: ""
+  instagram:
 - id: 339
   url: "uzbekistan"
   Teamname: "Uzbekistan"
   shortname: "O'zbekiston Respublikasi"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
   fgprofile: "https://first.global/2018-nations/team-uzbekistan-2018/"
-  facebook: ""
-  twitter: ""
-  youtube: ""
-  images: ""
+  facebook:
+  twitter:
+  youtube:
+  images:
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "UZ"
-  instagram: ""
+  instagram:
 - id: 340
   url: "france"
   Teamname: "France"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "FR"
 - id: 341
   url: "kiribati"
   Teamname: "Kiribati"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "KI"
 - id: 342
   url: "bermuda"
   Teamname: "Bermuda"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "BM"
 - id: 343
   url: "barbados"
   Teamname: "Barbados"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "BB"
 - id: 344
   url: "maldives"
   Teamname: "Maldives"
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "MV"
 - id: 345
   url: "austria"
   Teamname: "Austria"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "AT"
 - id: 346
   url: "us-virgin-islands"
   Teamname: "US Virgin Islands"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "VI"
 - id: 348
   url: "papua-new-guinea"
   Teamname: "Papua New Guinea"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "PG"
 - id: 349
   url: "gabon"
   Teamname: "Gabon"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "GA"
 - id: 350
   url: "united-arab-emirates"
   Teamname: "UAE"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "AE"
 - id: 351
   url: "lithuania"
   Teamname: "Lithuania"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "LT"
 - id: 352
   url: "netherlands"
   Teamname: "Netherlands"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "NL"
 - id: 353
   url: "hope"
   Teamname: "Hope"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
-  countrycode: ""
+  countrycode:
 - id: 354
   url: "mozambique"
   Teamname: "Mozambique"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "MZ"
 - id: 355
   url: "togo"
   Teamname: "Togo"
-  shortname: ""
+  shortname:
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "TG"
 - id: 356
   url: "sweden"
   Teamname: "Sweden"
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "SE"
 - id: 357
@@ -5172,32 +5172,32 @@
   Teamname: "Hong Kong"
   shortname: "Jung'wah Yahnmahn Guhng'wohgwok Heunggong Dahkbiht Hahngjingkeui"
   year: 2018
-  robotname: ""
-  adress: ""
-  frcteam: ""
-  website: ""
-  fgprofile: ""
-  facebook: ""
-  twitter: ""
-  youtube: ""
-  images: ""
+  robotname:
+  adress:
+  frcteam:
+  website:
+  fgprofile:
+  facebook:
+  twitter:
+  youtube:
+  images:
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "HK"
-  instagram: ""
+  instagram:
 - id: 359
   url: "italy"
   Teamname: "Italy"
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "IT"
 - id: 360
   url: "buthan"
   Teamname: "Buthan"
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "BT"
 - id: 361
@@ -5205,24 +5205,24 @@
   Teamname: "Chinese Taipei"
   shortname: "&#20013;&#21326;&#21488;&#21271"
   year: 2018
-  robotname: ""
+  robotname:
   adress: "Taipei, Republic of China"
-  frcteam: ""
-  website: ""
-  fgprofile: ""
-  facebook: ""
-  twitter: ""
-  youtube: ""
-  images: ""
+  frcteam:
+  website:
+  fgprofile:
+  facebook:
+  twitter:
+  youtube:
+  images:
   robotexperience: 0
-  qualification: ""
-  teammembers: ""
+  qualification:
+  teammembers:
   countrycode: "TW"
-  instagram: ""
+  instagram:
 - id: 362
   url: "cote-ivoire"
   Teamname: "Cote dIvoire"
   year: 2018
-  fgprofile: ""
+  fgprofile:
   robotexperience: 0
   countrycode: "CI"

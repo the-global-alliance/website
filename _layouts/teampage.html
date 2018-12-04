@@ -1,0 +1,144 @@
+---
+layout: default
+---
+
+{% for team in site.data.teams %}
+  {% if team.url == page.teamurl %}
+    {% if team.year == page.teamyear %}
+<style>
+table.FGC2017 {
+    color: #333; /* Lighten up font color */
+    font-family: Helvetica, Arial, sans-serif; /* Nicer font */
+	table-layout: fixed;
+    width: 640px;
+    border-collapse:
+    collapse; border-spacing: 0;
+}
+
+th.aqua {
+	background: #ADD8E6; /* Light grey background */
+	font-weight: bold;
+	text-align: center; /* Center our text */
+	width: 50px;
+}
+
+th.hydro {
+	background: #E6ACD7; /* Light grey background */
+	font-weight: bold;
+	text-align: center; /* Center our text */
+	width: 50px;
+}
+
+th.scores {
+	background: #F3F3F3
+	font-weight: bold;
+	text-align: center; /* Center our text */
+	width: 45px;
+}
+
+th.start {
+	background: #F3F3F3
+	font-weight: bold;
+	text-align: center; /* Center our text */
+	width: 70px;
+}
+
+th.rd {
+	background: #F3F3F3
+	font-weight: bold;
+	text-align: center; /* Center our text */
+	width: 10px;
+}
+
+td.normal {
+    background: #FAFAFA; /* Lighter grey background */
+    text-align: center; /* Center our text */
+}
+
+td.aqua {
+	background: #C1ECFA;
+	text-align: center; /* Center our text */
+}
+
+td.hydro {
+	background: #FAC0EB;
+	text-align: center; /* Center our text */
+}
+
+td, th { border: 1px solid #CCC; height: 30px; } /* Make cells a bit taller */
+</style>
+
+
+<div class="py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2">
+        <div class="btn-group">
+          <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Year</button>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="/team/2017/{{ team.url }}">2017 Season</a>
+            <a class="dropdown-item" href="/team/2018/{{ team.url }}">2018 Season</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-5">
+        <h1 class="">{% if team.Teamname %}{{ team.Teamname }}{% endif %}</h1>
+        <p class="lead">"{% if team.shortname %}{{ team.shortname }}{% endif %}"</p>
+        <!-- Team social-->
+        <p>
+
+
+      {% if team.adress %}<span class="fa fa-map-marker"></span> From: <a href="//maps.google.com/maps?q={{ team.adress | url_encode }}" target="_blank">{{ team.adress }}</a><br>{% endif %}
+      {% if team.frcteam %}<span class="fa fa-info-circle"></span> Represented by: {{ team.frcteam }}<br>{% endif %}
+      {% if team.website %}<span class="fa fa-globe"></span> <a href="{{ team.website }}" target="_blank">{{ team.website }}</a><br>{% endif %}
+      {% if team.fgprofile %}<span class="fa fa-globe"></span> <a href="{{ team.fgprofile }}" target="_blank">Team {% if team.Teamname %}{{ team.Teamname }}{% endif %} profile</a><br>{% endif %}
+      {% if team.facebook %}<i class="fa fa-facebook"></i> <a href="https://facebook.com/{{ team.facebook }}" target="_blank">{{ team.facebook }}</a><br>{% endif %}
+      {% if team.twitter %}<i class="fa fa-twitter"></i> <a href="https://twitter.com/{{ team.twitter }}" target="_blank">{{ team.twitter }}</a><br>{% endif %}
+      {% if team.youtube %}<i class="fa fa-youtube"></i> <a href="https://www.youtube.com/{{ team.youtube }}" target="_blank">{{ team.youtube }}</a><br>{% endif %}
+      <!--<i class="fa fa-wrench" aria-hidden="true"></i>&nbsp;Robotics experience:&nbsp;<i class="fa fa-check" aria-hidden="false"></i>--><br>
+
+      {% if team.qualification %}<i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;Qualification: {{ team.qualification }}<br>{% endif %}
+      <hr>
+
+    </p>
+    <br>
+
+    <!--<span class=""><i class="fa fa-users" aria-hidden="true"></i>&nbsp;This team has 7 students, 14% are women, 86% are men</span>-->
+
+
+        <!--end team social-->
+
+      </div>
+      <div class="col-md-5">
+        <div class="row">
+          <div class="col-md-8"></div>
+          <div class="col-md-4">
+            {% if team.countrycode %}<img class="img-fluid d-block" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/flags/4x3/{{ team.countrycode | downcase }}.svg ">{% endif %}
+          </div>
+        </div>
+        <div id="carousel" class="carousel slide" data-ride="carousel">
+          <!-- This is a carousel, for now, since we only have 1 photo/team, we'll set all the slides to the same picture-->
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img class="d-block img-fluid w-100" src="{{ team.images }}">
+              <div class="carousel-caption">
+                <!--<h3>First slide label</h3>
+                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>-->
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a>
+          <a class="carousel-control-next" href="#carousel" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a>
+        </div>
+        <br>
+        {% if team.robotname %}<p class="text-center">Robot Name: <strong>{{ team.robotname }}</strong> 🤖<br></p>{% endif %}
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+    {% endif %}
+  {% endif %}
+{% endfor %}
