@@ -10,11 +10,14 @@ layout: default
   {% if team.year == page.year %}
     {% assign nbteams = nbteams | plus: 1 %}
 
-    {% assign teamsFromYear | append: team.Teamname | append: "||" | append: team.url | append: "|||" %}
+    {% assign teamsFromYear = teamsFromYear | append: team.Teamname | append: "||" | append: team.url | append: "|||" %}
 
   {% endif %}
 {% endfor %}
 
+{% for team in teamsFromYear | split: "|||" %}
+<p>{{ team }}</p>
+{% endfor %}
 
 {% assign teamsPerTable = nbteams | divided_by: 4 %}
 
