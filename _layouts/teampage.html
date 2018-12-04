@@ -2,9 +2,7 @@
 layout: default
 ---
 
-{% for team in site.data.teams %}
-  {% if team.url == page.teamurl %}
-    {% if team.year == page.teamyear %}
+{% for team in site.data.teams %}{% if team.url == page.teamurl %}{% if team.year == page.teamyear %}
 <style>
 table.FGC2017 {
     color: #333; /* Lighten up font color */
@@ -139,6 +137,4 @@ td, th { border: 1px solid #CCC; height: 30px; } /* Make cells a bit taller */
   </div>
 </div>
 
-    {% endif %}
-  {% endif %}
-{% endfor %}
+{% endif %}{% endif %}{% endfor %}
