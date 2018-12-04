@@ -15,9 +15,6 @@ layout: default
   {% endif %}
 {% endfor %}
 
-{% for team in teamsFromYear | split: "|||" %}
-<p>{{ team }}</p>
-{% endfor %}
 
 {% assign teamsPerTable = nbteams | divided_by: 4 %}
 
