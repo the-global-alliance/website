@@ -2,4 +2,4 @@
 layout: null
 ---
 
-[{% for team in site.data.teams %}"{{ team.Teamname }} - {{ team.year }}",{% endfor %}]
+{% assign outtext = '[' %}{% for team in site.data.teams %}{% assign outtext = outtext | append: '"{{ team.Teamname }} - {{ team.year }}",' %}{% endfor %}{% assign outtext = outtext | append: ']' %}{{ outtext }}
