@@ -2,4 +2,4 @@
 layout: null
 ---
 
-{% assign outtext = '[' %}{% for team in site.data.teams %}{% assign outtext = outtext | append: '"{{ team.Teamname }} - {{ team.year }}",' %}{% endfor %}{% assign outtext = outtext | append: ']' %}{{ outtext }}
+{% assign firstiteration = true %}[{% for team in site.data.teams %}{% if firstiteration == true %},{% assign firstiteration = false %}{% endif %}"{{ team.Teamname }} - {{ team.year }}"{% endfor %}]
