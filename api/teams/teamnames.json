@@ -2,4 +2,4 @@
 layout: null
 ---
 
-{% assign firstiteration = true %}[{% for team in site.data.teams %}{% if firstiteration == true %},{% assign firstiteration = false %}{% endif %}"{{ team.Teamname }} - {{ team.year }}"{% endfor %}]
+{% assign firstiteration = true %}[{% for team in site.data.teams %}{% if firstiteration == false %},{% endif %}{% assign firstiteration = false %}"{{ team.Teamname }} - {{ team.year }}"{% endfor %}]
