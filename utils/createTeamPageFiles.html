@@ -16,7 +16,7 @@
       for (var i = 0; i < result.length; i++) {
 
         var team = result[i];
-        var content = "---\nlayout: teampage\nteamurl: " + team[1] + "\nteamyear: " + team[2] + "\n ---";
+        var content = "---\nlayout: teampage\nteamurl: " + team[1] + "\nteamyear: " + team[2] + "\n---";
         if (team[2] == "2018") {
           folder2018.file(team[1] + ".html", content);
         }
