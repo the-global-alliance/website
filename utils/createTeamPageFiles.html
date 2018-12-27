@@ -1,0 +1,34 @@
+<!-- script used by admins to generate team pages in html -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.8/FileSaver.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js" integrity="sha256-PZ/OvdXxEW1u3nuTAUCSjd4lyaoJ3UJpv/X11x2Gi5c=" crossorigin="anonymous"></script>
+
+
+<script>
+  var zip = new JSZip();
+
+  $.ajax({url: "/api/teams/teamurls.json", success: function(result){
+
+    var folder2017 = zip.folder("2017");
+    var folder2018 = zip.folder("2018");
+
+      for (var i = 0; i < result.length; i++) {
+
+        var team = result[i];
+        var content = "---\nlayout: teampage\nteamurl: " + team[1] + "\nteamyear: " + team[2] + "\n ---";
+        if (team[2] == "2018") {
+          folder2018.file(team[1] + ".html", content);
+        }
+        if (team[2] == "2017") {
+          folder2017.file(team[1] + ".html", content);
+        }
+      }
+      zip.generateAsync({type:"blob"})
+      .then(function(content) {
+          saveAs(content, "teams.zip");
+      });
+  }});
+
+
+</script>

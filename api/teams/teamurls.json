@@ -1,0 +1,5 @@
+---
+layout: null
+---
+
+{% assign firstiteration = true %}[{% for team in site.data.teams %}{% if firstiteration == false %},{% endif %}{% assign firstiteration = false %}["{{ team.Teamname }}","{{ team.url }}","{{ team.year }}"]{% endfor %}]
