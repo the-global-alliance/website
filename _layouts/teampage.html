@@ -166,8 +166,7 @@ td, th { border: 1px solid #CCC; height: 30px; } /* Make cells a bit taller */
               </b></tr>
 
 
-              {% for match in site.data.matches %}
-                {% if team.id == match.red1 or team.id == match.red2 or team.id == match.red3 or team.id == match.blue1 or team.id == match.blue2 or team.id == match.blue3 %}
+{% for match in site.data.matches %}{% if team.id == match.red1 or team.id == match.red2 or team.id == match.red3 or team.id == match.blue1 or team.id == match.blue2 or team.id == match.blue3 %}
 
                 <tr>
                     <td class="normal">{{ match.round }}</td>
@@ -181,9 +180,7 @@ td, th { border: 1px solid #CCC; height: 30px; } /* Make cells a bit taller */
                 	<td class="hydro">{{ match.redscore }}</td>
                 	<td class="aqua">{{ match.bluescore }}</td>
                 </tr>
-
-                {% endif %}
-              {% endfor %}
+{% endif %}{% endfor %}
 
           </table>
 
