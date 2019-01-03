@@ -135,6 +135,64 @@ td, th { border: 1px solid #CCC; height: 30px; } /* Make cells a bit taller */
       </div>
     </div>
   </div>
+
+
+  <!-- scores -->
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2">
+
+      </div>
+      <div class="col-md-10">
+
+              <!-- team matches -->
+
+          <br>
+          <br>
+          <hr>
+
+          <h4>Scores</h4>
+
+
+              <table class="FGC2017">
+              <tr><b>
+                  <th class="rd">Rd</th>
+                  <th class="start">Match</th>
+              	<th colspan="3" class="hydro">Red</th>
+              	<th colspan="3" class="aqua">Blue</th>
+              	<th colspan="2" class="scores">Scores</th>
+              </b></tr>
+
+
+              {% for match in site.data.matches %}
+                {% if team.id == match.red1 or team.id == match.red2 or team.id == match.red3 or team.id == match.blue1 or team.id == match.blue2 or team.id == match.blue3 %}
+
+                <tr>
+                    <td class="normal">{{ match.round }}</td>
+                    <td class="normal">{{ match.game }}</td>
+                	<td class="hydro"><a href="#" data-toggle="tooltip" data-placement="top" title="{{ match.r1name }}">{{ match.r1name | truncate: 3, "" | upcase }}</a></td>
+                	<td class="hydro"><a href="#" data-toggle="tooltip" data-placement="top" title="{{ match.r2name }}">{{ match.r2name | truncate: 3, "" | upcase }}</a></td>
+                	<td class="hydro"><a href="#" data-toggle="tooltip" data-placement="top" title="{{ match.r3name }}">{{ match.r3name | truncate: 3, "" | upcase }}</a></td>
+                  <td class="aqua"><a href="#" data-toggle="tooltip" data-placement="top" title="{{ match.b1name }}">{{ match.b1name | truncate: 3, "" | upcase }}</a></td>
+                	<td class="aqua"><a href="#" data-toggle="tooltip" data-placement="top" title="{{ match.b2name }}">{{ match.b2name | truncate: 3, "" | upcase }}</a></td>
+                	<td class="aqua"><a href="#" data-toggle="tooltip" data-placement="top" title="{{ match.b3name }}">{{ match.b3name | truncate: 3, "" | upcase }}</a></td>
+                	<td class="hydro">{{ match.redscore }}</td>
+                	<td class="aqua">{{ match.bluescore }}</td>
+                </tr>
+
+                {% endif %}
+              {% endfor %}
+
+          </table>
+
+
+      </div>
+    </div>
+  </div>
+
+
 </div>
 
 {% endif %}{% endif %}{% endfor %}
